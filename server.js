@@ -27,7 +27,7 @@ app.use(express.json())
     app.use(cors(corsOptions))
 // }
 
-// import { authRoutes } from './api/auth/auth.routes.js'
+import { authRoutes } from './api/auth/auth.routes.js'
 // import { userRoutes } from './api/user/user.routes.js'
 // import { reviewRoutes } from './api/review/review.routes.js'
 import { boardRoutes } from './api/board/board.routes.js'
@@ -37,7 +37,7 @@ import { boardRoutes } from './api/board/board.routes.js'
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
 app.all('*', setupAsyncLocalStorage)
 
-// app.use('/api/auth', authRoutes)
+app.use('/api/auth', authRoutes)
 // app.use('/api/user', userRoutes)
 // app.use('/api/review', reviewRoutes)
 app.use('/api/board', boardRoutes)

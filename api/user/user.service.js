@@ -1,8 +1,8 @@
-import {dbService} from '../../services/db.service.js'
-import {logger} from '../../services/logger.service.js'
+import { dbService } from '../../services/db.service.js'
+import { logger } from '../../services/logger.service.js'
 // import {reviewService} from '../review/review.service.js'
 import mongodb from 'mongodb'
-const {ObjectId} = mongodb
+const { ObjectId } = mongodb
 
 export const userService = {
     add,            // Create (Signup)
@@ -10,7 +10,7 @@ export const userService = {
     update,         // Update (Edit profile)
     remove,         // Delete (remove user)
     query,          // List (of users)
-    getByUsername   // Used for Login
+    getByEmail   // Used for Login
 }
 
 async function query(filterBy = {}) {
@@ -51,13 +51,13 @@ async function getById(userId) {
         throw err
     }
 }
-async function getByUsername(username) {
+async function getByEmail(email) {
     try {
         const collection = await dbService.getCollection('user')
-        const user = await collection.findOne({ username })
+        const user = await collection.findOne({ email })
         return user
     } catch (err) {
-        logger.error(`while finding user by username: ${username}`, err)
+        logger.error(`while finding user by email: ${email}`, err)
         throw err
     }
 }
@@ -93,11 +93,10 @@ async function add(user) {
     try {
         // peek only updatable fields!
         const userToAdd = {
-            username: user.username,
+            email: user.email,
             password: user.password,
             fullname: user.fullname,
-            imgUrl: user.imgUrl,
-            score: 100
+            imgUrl: user.imgUrl
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)
@@ -114,7 +113,7 @@ function _buildCriteria(filterBy) {
         const txtCriteria = { $regex: filterBy.txt, $options: 'i' }
         criteria.$or = [
             {
-                username: txtCriteria
+                email: txtCriteria
             },
             {
                 fullname: txtCriteria
