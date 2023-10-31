@@ -10,7 +10,6 @@ export async function getBoards(req, res) {
         //     pageIdx: req.query.pageIdx
         // }
         const boards = await boardService.query()
-        console.log(boards);
         // const boards = await boardService.query(filterBy)
         res.json(boards)
     } catch (err) {
@@ -37,7 +36,6 @@ export async function addBoard(req, res) {
         const board = req.body
         // board.owner = loggedinUser
         const addedBoard = await boardService.add(board)
-        console.log('addedBoard:', addedBoard)
         // socketService.broadcast({ type: 'board-added', data: addedBoard, userId: loggedinUser._id })
         res.json(addedBoard)
     } catch (err) {
