@@ -1334,3 +1334,32 @@
 1.11.2023, 0:49:12 - DEBUG - Getting Boards: | {} 
 1.11.2023, 0:49:47 - INFO - Sample Logger Middleware 
 1.11.2023, 0:49:47 - DEBUG - Getting Boards: | {} 
+1.11.2023, 1:04:10 - INFO - Server is running on port: 3030 
+1.11.2023, 11:48:39 - INFO - Server is running on port: 3030 
+1.11.2023, 11:49:02 - INFO - Sample Logger Middleware 
+1.11.2023, 11:49:02 - DEBUG - Getting Boards: | {} 
+1.11.2023, 11:53:58 - INFO - Sample Logger Middleware 
+1.11.2023, 11:53:58 - DEBUG - Getting Boards: | {} 
+1.11.2023, 11:54:01 - DEBUG - Getting Boards: | {} 
+1.11.2023, 11:54:01 - INFO - Sample Logger Middleware 
+1.11.2023, 11:54:02 - INFO - Sample Logger Middleware 
+1.11.2023, 11:54:02 - DEBUG - Getting Boards: | {} 
+1.11.2023, 12:06:39 - INFO - Server is running on port: 3030 
+1.11.2023, 12:25:41 - INFO - Server is running on port: 3030 
+1.11.2023, 12:26:44 - INFO - Server is running on port: 3030 
+1.11.2023, 12:27:10 - INFO - Server is running on port: 3030 
+1.11.2023, 13:11:50 - INFO - Sample Logger Middleware 
+1.11.2023, 13:11:50 - DEBUG - Getting Boards: | {} 
+1.11.2023, 13:11:51 - INFO - Sample Logger Middleware 
+1.11.2023, 13:11:51 - DEBUG - Getting Boards: | {} 
+1.11.2023, 13:12:01 - DEBUG - auth.service - login with email: shir@gmail.com 
+1.11.2023, 13:12:02 - INFO - User login:  | {"_id":"65413ad223eba4a9f86ad7ab","email":"shir@gmail.com","fullname":"shir cohen","imgUrl":"#faa53d"} 
+1.11.2023, 13:12:02 - INFO - Sample Logger Middleware (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 13:12:02 - DEBUG - Getting Boards: | {} (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 14:04:01 - INFO - Server is running on port: 3030 
+1.11.2023, 14:04:25 - INFO - Sample Logger Middleware (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 14:04:25 - DEBUG - Getting Boards: | {} (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 14:42:09 - INFO - Sample Logger Middleware (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 14:42:09 - DEBUG - Getting Boards: | {} (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 14:42:13 - INFO - Sample Logger Middleware (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 14:42:13 - DEBUG - Getting Boards: | {} (userId: 65413ad223eba4a9f86ad7ab)
