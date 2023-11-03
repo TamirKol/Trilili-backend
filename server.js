@@ -31,7 +31,7 @@ import { authRoutes } from './api/auth/auth.routes.js'
 // import { userRoutes } from './api/user/user.routes.js'
 // import { reviewRoutes } from './api/review/review.routes.js'
 import { boardRoutes } from './api/board/board.routes.js'
-// import { setupSocketAPI } from './services/socket.service.js'
+import { setupSocketAPI } from './services/socket.service.js'
 
 // routes
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
@@ -41,7 +41,7 @@ app.use('/api/auth', authRoutes)
 // app.use('/api/user', userRoutes)
 // app.use('/api/review', reviewRoutes)
 app.use('/api/board', boardRoutes)
-// setupSocketAPI(server)
+setupSocketAPI(server)
 
 
 app.get('/**', (req, res) => {
