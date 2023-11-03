@@ -818,21 +818,93 @@
         ],
         "activities": [
             {
-                "id": "a101",
-                "txt": "Changed Color",
-                "createdAt": 154514,
+                "id": "ac101",
+                "txt": "added",
+                "createdAt": 1698869572988,
                 "byMember": {
-                    "_id": "u101",
-                    "fullname": "Abi Abambi",
-                    "imgUrl": "http://some-img"
+                    "email" : "talco@trilili.com",
+                    "fullname" : "Tal Cohen",
+                    "imgUrl" : "http://res.cloudinary.com/dug2dklcy/image/upload/v1698869585/pujdwjccal5j2syietpa.jpg"
                 },
                 "group": {
-                    "id": "g101",
-                    "title": "Urgent Stuff"
+                    "id": "g102",
+                    "title": "Backlog-client"
                 },
                 "task": {
-                    "id": "c106",
-                    "title": "Replace Logo"
+                    "id": "d103",
+                    "title": "Planning the components tree"
+                }
+            },
+            {
+                "id": "ac102",
+                "txt": "added",
+                "createdAt": 1698869572988,
+                "byMember": {
+                    "email" : "tamirkol@trilili.com",
+                    "fullname" : "Tamir Kol",
+                    "imgUrl" : "http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"
+                },
+                "group": {
+                    "id": "g102",
+                    "title": "Backlog-client"
+                },
+                "task": {
+                    "id": "d104",
+                    "title": "Build basic template"
+                }
+            },
+            {
+                "id": "ac103",
+                "txt": "deleted",
+                "createdAt": 1698869572988,
+                "byMember": {
+                    "email" : "stavinyo@trilili.com",
+                    "fullname" : "Stav Cohen",
+                    "imgUrl" : "http://res.cloudinary.com/dug2dklcy/image/upload/v1698962906/zigf8ivlntwx913bysi6.png"
+                },
+                "group": {
+                    "id": "g103",
+                    "title": "In development"
+                },
+                "task": {
+                    "id": "d130",
+                    "title": "Task details cmp"
+                }
+            },
+            {
+                "id": "ac104",
+                "txt": "deleted",
+                "createdAt": 1698869572988,
+                "byMember": {
+                    "email" : "talco@trilili.com",
+                    "fullname" : "Tal Cohen",
+                    "imgUrl" : "http://res.cloudinary.com/dug2dklcy/image/upload/v1698869585/pujdwjccal5j2syietpa.jpg"
+                },
+                "group": {
+                    "id": "g104",
+                    "title": "QA"
+                },
+                "task": {
+                    "id": "d131",
+                    "title": "Checking bugs"
+                }
+            },
+            {
+                "id": "ac105",
+                "txt": "added",
+                "createdAt": 1698869572988,
+                "byMember": {
+                    "email" : "tamirkol@trilili.com",
+                    "fullname" : "Tamir Kol",
+                    "imgUrl" : "http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"
+                },
+                "group": {
+                    "id": "g106",
+                    "title": "Code review"
+                },
+                "task": {
+                    "id": "c119",
+                    "title": "Implement homepage layout"
                 }
             }
         ],
