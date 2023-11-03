@@ -25,20 +25,21 @@ async function login(email, password) {
 
     delete user.password
     user._id = user._id.toString()
+    console.log(user);
     return user
 }
 
-async function signup({ email, password, fullname, imgUrl }) {
+async function signup({ email, password, fullname, imgUrl,username }) {
     const saltRounds = 10
 
     logger.debug(`auth.service - signup with email: ${email}, fullname: ${fullname}`)
-    if (!email || !password || !fullname) return Promise.reject('Missing required signup information')
+    if (!email || !password || !fullname ||!username) return Promise.reject('Missing required signup information')
 
     const userExist = await userService.getByEmail(email)
     if (userExist) return Promise.reject('email already taken')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ email, password: hash, fullname, imgUrl })
+    return userService.add({ email, password: hash, fullname, imgUrl,username:username})
 }
 
 function getLoginToken(user) {

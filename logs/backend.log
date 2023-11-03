@@ -1363,3 +1363,428 @@
 1.11.2023, 14:42:09 - DEBUG - Getting Boards: | {} (userId: 65413ad223eba4a9f86ad7ab)
 1.11.2023, 14:42:13 - INFO - Sample Logger Middleware (userId: 65413ad223eba4a9f86ad7ab)
 1.11.2023, 14:42:13 - DEBUG - Getting Boards: | {} (userId: 65413ad223eba4a9f86ad7ab)
+1.11.2023, 16:49:23 - INFO - Server is running on port: 3030 
+1.11.2023, 16:49:47 - INFO - Sample Logger Middleware 
+1.11.2023, 16:49:47 - DEBUG - Getting Boards: | {} 
+1.11.2023, 17:03:24 - INFO - Sample Logger Middleware 
+1.11.2023, 17:03:24 - DEBUG - Getting Boards: | {} 
+1.11.2023, 17:15:49 - INFO - Sample Logger Middleware 
+1.11.2023, 17:15:49 - DEBUG - Getting Boards: | {} 
+1.11.2023, 17:23:40 - INFO - Sample Logger Middleware 
+1.11.2023, 17:23:40 - DEBUG - Getting Boards: | {} 
+1.11.2023, 17:48:02 - INFO - Sample Logger Middleware 
+1.11.2023, 17:48:02 - DEBUG - Getting Boards: | {} 
+1.11.2023, 17:49:42 - INFO - Sample Logger Middleware 
+1.11.2023, 17:49:42 - DEBUG - Getting Boards: | {} 
+1.11.2023, 19:58:09 - INFO - Sample Logger Middleware 
+1.11.2023, 19:58:09 - DEBUG - Getting Boards: | {} 
+1.11.2023, 21:16:26 - DEBUG - auth.service - login with email: fdgfdg@dfsdf.dsf 
+1.11.2023, 21:16:26 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 21:17:35 - DEBUG - auth.service - login with email: fdgfdg@dfsdf.dsf 
+1.11.2023, 21:17:35 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 21:33:36 - DEBUG - auth.service - login with email: sdsd@ffdf.co 
+1.11.2023, 21:33:36 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 21:40:27 - DEBUG - auth.service - login with email: sdsd@ffdf.co 
+1.11.2023, 21:40:27 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 21:43:03 - DEBUG - auth.service - login with email: sdsd@ffdf.co 
+1.11.2023, 21:43:03 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 21:43:49 - DEBUG - auth.service - login with email: sadsad@sdfsdf.xcxc 
+1.11.2023, 21:43:49 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 22:16:45 - DEBUG - auth.service - login with email: sadsad@sdfsdf.xcxc 
+1.11.2023, 22:16:45 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 22:18:32 - DEBUG - auth.service - login with email: sdsd@ffdf.co 
+1.11.2023, 22:18:32 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 22:29:29 - DEBUG - auth.service - login with email: fghfgh@sdf 
+1.11.2023, 22:29:29 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 22:34:55 - DEBUG - auth.service - login with email: tamir@gmail.com 
+1.11.2023, 22:34:55 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 22:38:43 - DEBUG - auth.service - login with email: sdsd@ffdf.co 
+1.11.2023, 22:38:43 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 22:38:55 - DEBUG - auth.service - login with email: tamir@gmail.com 
+1.11.2023, 22:38:55 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+1.11.2023, 22:38:55 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 22:38:55 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 22:59:56 - DEBUG - auth.service - signup with email: , fullname: undefined 
+1.11.2023, 22:59:56 - ERROR - Failed to signup Missing required signup information 
+1.11.2023, 23:02:06 - DEBUG - auth.service - signup with email: , fullname:  
+1.11.2023, 23:02:06 - ERROR - Failed to signup Missing required signup information 
+1.11.2023, 23:02:25 - DEBUG - auth.service - signup with email: , fullname:  
+1.11.2023, 23:02:25 - ERROR - Failed to signup Missing required signup information 
+1.11.2023, 23:02:43 - DEBUG - auth.service - signup with email: ao@ao.ao, fullname: a o 
+1.11.2023, 23:02:44 - DEBUG - auth.route - new account created: {"email":"ao@ao.ao","password":"$2b$10$OIXz7NXB/Xt/66J/1doTV./BFkujyMj3VY7vQf9W95Dwjc.buHTbi","fullname":"a o","imgUrl":"#8590a2","_id":"6542bcf4f7134e08305d19c6"} 
+1.11.2023, 23:02:44 - DEBUG - auth.service - login with email: ao@ao.ao 
+1.11.2023, 23:02:44 - INFO - User signup: | {"_id":"6542bcf4f7134e08305d19c6","email":"ao@ao.ao","fullname":"a o","imgUrl":"#8590a2"} 
+1.11.2023, 23:02:44 - INFO - Sample Logger Middleware (userId: 6542bcf4f7134e08305d19c6)
+1.11.2023, 23:02:44 - DEBUG - Getting Boards: | {} (userId: 6542bcf4f7134e08305d19c6)
+1.11.2023, 23:03:02 - DEBUG - auth.service - login with email: ao@ao.ao 
+1.11.2023, 23:03:02 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 23:03:56 - DEBUG - auth.service - login with email: ao@ao.ao 
+1.11.2023, 23:03:56 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 23:04:17 - DEBUG - auth.service - login with email: ao@ao.ao 
+1.11.2023, 23:04:17 - ERROR - Failed to Login Invalid email or password 
+1.11.2023, 23:10:04 - INFO - Sample Logger Middleware 
+1.11.2023, 23:10:04 - DEBUG - Getting Boards: | {} 
+1.11.2023, 23:13:20 - DEBUG - auth.service - login with email: tamir@gmail.com 
+1.11.2023, 23:13:20 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+1.11.2023, 23:13:20 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:13:20 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:14:27 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:14:27 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:22:06 - DEBUG - auth.service - login with email: tamir@gmail.com (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:22:06 - ERROR - Failed to Login Invalid email or password (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:22:19 - DEBUG - auth.service - signup with email: tamir@gmail.com, fullname:  (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:22:19 - ERROR - Failed to signup Missing required signup information (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:23:55 - DEBUG - auth.service - login with email: tamir@gmail.com (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:23:55 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:23:56 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:23:56 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:24:08 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:24:08 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+1.11.2023, 23:35:43 - INFO - Sample Logger Middleware 
+1.11.2023, 23:35:43 - DEBUG - Getting Boards: | {} 
+1.11.2023, 23:41:47 - INFO - Sample Logger Middleware 
+1.11.2023, 23:41:47 - DEBUG - Getting Boards: | {} 
+1.11.2023, 23:49:05 - INFO - Sample Logger Middleware 
+1.11.2023, 23:49:05 - DEBUG - Getting Boards: | {} 
+1.11.2023, 23:56:01 - INFO - Sample Logger Middleware 
+1.11.2023, 23:56:01 - DEBUG - Getting Boards: | {} 
+1.11.2023, 23:56:07 - INFO - Sample Logger Middleware 
+1.11.2023, 23:56:07 - DEBUG - Getting Boards: | {} 
+1.11.2023, 23:56:13 - INFO - Sample Logger Middleware 
+1.11.2023, 23:56:13 - DEBUG - Getting Boards: | {} 
+2.11.2023, 0:07:26 - DEBUG - Getting Boards: | {} 
+2.11.2023, 0:07:26 - INFO - Sample Logger Middleware 
+2.11.2023, 0:10:18 - INFO - Sample Logger Middleware 
+2.11.2023, 0:10:18 - DEBUG - Getting Boards: | {} 
+2.11.2023, 0:10:44 - INFO - Sample Logger Middleware 
+2.11.2023, 0:10:44 - DEBUG - Getting Boards: | {} 
+2.11.2023, 0:10:51 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 0:10:51 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+2.11.2023, 0:10:52 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 0:10:52 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 0:11:22 - INFO - Sample Logger Middleware 
+2.11.2023, 0:11:22 - DEBUG - Getting Boards: | {} 
+2.11.2023, 9:33:54 - DEBUG - auth.service - login with email:  
+2.11.2023, 9:33:54 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 9:36:08 - DEBUG - auth.service - login with email:  
+2.11.2023, 9:36:08 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 9:36:50 - DEBUG - auth.service - login with email:  
+2.11.2023, 9:36:50 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 9:38:09 - INFO - Sample Logger Middleware 
+2.11.2023, 9:38:09 - DEBUG - Getting Boards: | {} 
+2.11.2023, 9:38:14 - INFO - Sample Logger Middleware 
+2.11.2023, 9:38:14 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:06:17 - INFO - Sample Logger Middleware 
+2.11.2023, 10:06:17 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:07:26 - INFO - Sample Logger Middleware 
+2.11.2023, 10:07:26 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:08:52 - INFO - Sample Logger Middleware 
+2.11.2023, 10:08:52 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:11:33 - INFO - Sample Logger Middleware 
+2.11.2023, 10:11:33 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:37:34 - INFO - Sample Logger Middleware 
+2.11.2023, 10:37:34 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:37:50 - INFO - Sample Logger Middleware 
+2.11.2023, 10:37:50 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:37:54 - INFO - Sample Logger Middleware 
+2.11.2023, 10:37:54 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:37:56 - INFO - Sample Logger Middleware 
+2.11.2023, 10:37:56 - DEBUG - Getting Boards: | {} 
+2.11.2023, 10:43:06 - INFO - Sample Logger Middleware 
+2.11.2023, 10:43:06 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:26:05 - DEBUG - auth.service - login with email:  
+2.11.2023, 11:26:05 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 11:31:11 - INFO - Sample Logger Middleware 
+2.11.2023, 11:31:11 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:40:35 - INFO - Sample Logger Middleware 
+2.11.2023, 11:40:35 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:42:06 - INFO - Sample Logger Middleware 
+2.11.2023, 11:42:06 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:42:21 - INFO - Sample Logger Middleware 
+2.11.2023, 11:42:21 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:42:27 - INFO - Sample Logger Middleware 
+2.11.2023, 11:42:27 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:43:59 - INFO - Sample Logger Middleware 
+2.11.2023, 11:43:59 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:46:51 - INFO - Sample Logger Middleware 
+2.11.2023, 11:46:51 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:46:55 - INFO - Sample Logger Middleware 
+2.11.2023, 11:46:55 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:59:45 - INFO - Sample Logger Middleware 
+2.11.2023, 11:59:45 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:59:48 - INFO - Sample Logger Middleware 
+2.11.2023, 11:59:48 - DEBUG - Getting Boards: | {} 
+2.11.2023, 11:59:51 - INFO - Sample Logger Middleware 
+2.11.2023, 11:59:51 - DEBUG - Getting Boards: | {} 
+2.11.2023, 12:48:19 - INFO - Sample Logger Middleware 
+2.11.2023, 12:48:19 - DEBUG - Getting Boards: | {} 
+2.11.2023, 13:00:05 - INFO - Sample Logger Middleware 
+2.11.2023, 13:00:05 - DEBUG - Getting Boards: | {} 
+2.11.2023, 13:00:15 - INFO - Sample Logger Middleware 
+2.11.2023, 13:00:15 - DEBUG - Getting Boards: | {} 
+2.11.2023, 13:25:52 - DEBUG - auth.service - login with email:  
+2.11.2023, 13:25:52 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 14:21:58 - DEBUG - auth.service - login with email:  
+2.11.2023, 14:21:58 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 14:21:59 - DEBUG - auth.service - signup with email: , fullname:  
+2.11.2023, 14:21:59 - ERROR - Failed to signup Missing required signup information 
+2.11.2023, 14:22:36 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 14:22:36 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+2.11.2023, 14:22:36 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 14:22:36 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 14:45:36 - INFO - Sample Logger Middleware 
+2.11.2023, 14:45:36 - DEBUG - Getting Boards: | {} 
+2.11.2023, 14:45:40 - INFO - Sample Logger Middleware 
+2.11.2023, 14:45:40 - DEBUG - Getting Boards: | {} 
+2.11.2023, 16:19:28 - INFO - Sample Logger Middleware 
+2.11.2023, 16:19:28 - DEBUG - Getting Boards: | {} 
+2.11.2023, 16:19:39 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 16:19:40 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+2.11.2023, 16:19:54 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:19:54 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:23:21 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:23:21 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:23:29 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:23:29 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:24:17 - INFO - Sample Logger Middleware 
+2.11.2023, 16:24:17 - DEBUG - Getting Boards: | {} 
+2.11.2023, 16:24:26 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 16:24:26 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+2.11.2023, 16:24:27 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:24:27 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:25:30 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 16:25:30 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"#dcdfe4"} 
+2.11.2023, 16:25:30 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:25:30 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:26:21 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:26:21 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:26:31 - DEBUG - auth.service - login with email: ao@ao.ao 
+2.11.2023, 16:26:32 - INFO - User login:  | {"_id":"6542bcf4f7134e08305d19c6","email":"ao@ao.ao","fullname":"a o","imgUrl":"#8590a2"} 
+2.11.2023, 16:26:32 - INFO - Sample Logger Middleware (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:26:32 - DEBUG - Getting Boards: | {} (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:26:51 - INFO - Sample Logger Middleware (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:26:51 - DEBUG - Getting Boards: | {} (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:27:17 - DEBUG - auth.service - login with email: ao@ao.ao 
+2.11.2023, 16:27:17 - INFO - User login:  | {"_id":"6542bcf4f7134e08305d19c6","email":"ao@ao.ao","fullname":"a o","imgUrl":"src//assets//img//tamir.jpg"} 
+2.11.2023, 16:27:17 - INFO - Sample Logger Middleware (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:27:17 - DEBUG - Getting Boards: | {} (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:27:41 - INFO - Sample Logger Middleware (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:27:41 - DEBUG - Getting Boards: | {} (userId: 6542bcf4f7134e08305d19c6)
+2.11.2023, 16:30:45 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 16:30:45 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"tamir.jpg"} 
+2.11.2023, 16:30:45 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:30:45 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:32:17 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:32:17 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:33:11 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:33:11 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:33:23 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:33:23 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 16:34:26 - DEBUG - auth.service - login with email: tal@gmail.com 
+2.11.2023, 16:34:26 - ERROR - Failed to Login Invalid email or password 
+2.11.2023, 16:34:42 - DEBUG - auth.service - signup with email: tata@tata.com, fullname: tata batata 
+2.11.2023, 16:34:42 - DEBUG - auth.route - new account created: {"email":"tata@tata.com","password":"$2b$10$j4wMd62bVs.V9HZJNa2LkO.hM3WHyrQIj00E0d3dvyIY83Bk7QaJm","fullname":"tata batata","imgUrl":"#f8e6a0","_id":"6543b382f7134e08305d19c7"} 
+2.11.2023, 16:34:42 - DEBUG - auth.service - login with email: tata@tata.com 
+2.11.2023, 16:34:43 - INFO - User signup: | {"_id":"6543b382f7134e08305d19c7","email":"tata@tata.com","fullname":"tata batata","imgUrl":"#f8e6a0"} 
+2.11.2023, 16:34:43 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 16:34:43 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 16:36:27 - DEBUG - auth.service - login with email:  (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 16:36:27 - ERROR - Failed to Login Invalid email or password (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 16:39:05 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 16:39:05 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:03:26 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:03:26 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:10:31 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:10:31 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:30:30 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:30:30 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:35:00 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:35:00 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:35:53 - DEBUG - auth.service - login with email: tamir@gmail.com (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:35:53 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"tamir.jpg"} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:35:54 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 17:35:54 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 17:36:07 - DEBUG - auth.service - login with email: tata@tata.com 
+2.11.2023, 17:36:07 - INFO - User login:  | {"_id":"6543b382f7134e08305d19c7","email":"tata@tata.com","fullname":"tata batata","imgUrl":"#f8e6a0"} 
+2.11.2023, 17:36:08 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:36:08 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:52:16 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:52:16 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:56:26 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 17:56:26 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:04:01 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:04:01 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:08:07 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:08:07 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:08:21 - DEBUG - auth.service - login with email: tamir@gmail.com (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:08:21 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"tamir.jpg"} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:08:23 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:08:23 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:08:51 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:08:51 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:12:48 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:12:48 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:12:50 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:12:50 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:17:09 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:17:09 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:17:22 - INFO - Sample Logger Middleware 
+2.11.2023, 18:17:22 - DEBUG - Getting Boards: | {} 
+2.11.2023, 18:17:28 - DEBUG - auth.service - login with email: tamir@gmail.com 
+2.11.2023, 18:17:29 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"} 
+2.11.2023, 18:17:29 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:17:29 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+2.11.2023, 18:17:55 - DEBUG - auth.service - login with email: tata@tata.com 
+2.11.2023, 18:17:55 - INFO - User login:  | {"_id":"6543b382f7134e08305d19c7","email":"tata@tata.com","fullname":"tata batata","imgUrl":"#f8e6a0"} 
+2.11.2023, 18:17:56 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 18:17:56 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 19:33:17 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 19:33:17 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 19:41:37 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+2.11.2023, 19:41:37 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 0:13:00 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 0:13:00 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 0:38:35 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 0:38:35 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 0:59:44 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 0:59:44 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 8:35:37 - DEBUG - Getting Boards: | {} 
+3.11.2023, 8:35:37 - INFO - Sample Logger Middleware 
+3.11.2023, 8:35:45 - DEBUG - auth.service - login with email: tamir@gmail.com 
+3.11.2023, 8:35:45 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"} 
+3.11.2023, 8:35:45 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 8:35:45 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 8:40:25 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 8:40:25 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 11:17:10 - DEBUG - auth.service - login with email:  (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 11:17:10 - ERROR - Failed to Login Invalid email or password (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 11:17:17 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 11:17:17 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 12:25:48 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 12:25:48 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 12:33:08 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 12:33:08 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 14:40:59 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 14:40:59 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 14:41:18 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 14:41:18 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:16:53 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:16:53 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:17:18 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:17:18 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:18:48 - DEBUG - auth.service - login with email: tamir@gmail.com (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:18:48 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:18:49 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:18:49 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:22:39 - DEBUG - auth.service - login with email: tamir@gmail.com (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:22:40 - ERROR - Failed to Login Invalid email or password (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:22:49 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:22:49 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:46:23 - DEBUG - auth.service - login with email: tata@tata.com (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:46:23 - INFO - User login:  | {"_id":"6543b382f7134e08305d19c7","email":"tata@tata.com","fullname":"tata batata","imgUrl":"#f8e6a0"} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 15:46:24 - INFO - Sample Logger Middleware (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 15:46:24 - DEBUG - Getting Boards: | {} (userId: 6543b382f7134e08305d19c7)
+3.11.2023, 16:14:07 - DEBUG - auth.service - login with email: tamir@gmail.com 
+3.11.2023, 16:14:07 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"} 
+3.11.2023, 16:14:08 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:14:08 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:20:51 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:20:51 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:21:45 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:21:45 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:25:41 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:25:41 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:26:36 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:26:36 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:27:11 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:27:11 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:27:15 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:27:15 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:29:27 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:29:27 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 16:29:45 - DEBUG - auth.service - signup with email: lolo@lolo.lo, fullname: lolo nono 
+3.11.2023, 16:29:45 - DEBUG - auth.route - new account created: {"email":"lolo@lolo.lo","password":"$2b$10$U986LWNq7tuYSUFZKCTCtOvD1LcEHMSgDAx9ZgAIclnCz1Hn/EIfy","fullname":"lolo nono","imgUrl":"#f8e6a0","_id":"654503d9f7134e08305d19c8"} 
+3.11.2023, 16:29:45 - DEBUG - auth.service - login with email: lolo@lolo.lo 
+3.11.2023, 16:29:45 - INFO - User signup: | {"_id":"654503d9f7134e08305d19c8","email":"lolo@lolo.lo","fullname":"lolo nono","imgUrl":"#f8e6a0"} 
+3.11.2023, 16:29:46 - INFO - Sample Logger Middleware (userId: 654503d9f7134e08305d19c8)
+3.11.2023, 16:29:46 - DEBUG - Getting Boards: | {} (userId: 654503d9f7134e08305d19c8)
+3.11.2023, 16:35:35 - DEBUG - auth.service - signup with email: gogo@gogo.com, fullname: gogo logo 
+3.11.2023, 16:35:35 - DEBUG - auth.route - new account created: {"email":"gogo@gogo.com","password":"$2b$10$owOCdXYFYu9kyIVxziCNHe7BppEAqQFEdxod4/WSsnz7VASG6dJka","fullname":"gogo logo","imgUrl":"#c1f0f5","_id":"65450537f7134e08305d19c9"} 
+3.11.2023, 16:35:35 - DEBUG - auth.service - login with email: gogo@gogo.com 
+3.11.2023, 16:35:36 - INFO - User signup: | {"_id":"65450537f7134e08305d19c9","email":"gogo@gogo.com","fullname":"gogo logo","imgUrl":"#c1f0f5"} 
+3.11.2023, 16:35:36 - INFO - Sample Logger Middleware (userId: 65450537f7134e08305d19c9)
+3.11.2023, 16:35:36 - DEBUG - Getting Boards: | {} (userId: 65450537f7134e08305d19c9)
+3.11.2023, 16:36:47 - DEBUG - auth.service - signup with email: zozo@zozo.com, fullname: zozo zozo (userId: 65450537f7134e08305d19c9)
+3.11.2023, 16:36:48 - DEBUG - auth.route - new account created: {"email":"zozo@zozo.com","password":"$2b$10$NYBqHTtMxmPOUhGz2.Al1ePp1uSubUUV49xR3idwNFjBQuPuCQIHu","fullname":"zozo zozo","imgUrl":"#dfd8fd","_id":"65450580f7134e08305d19ca"} (userId: 65450537f7134e08305d19c9)
+3.11.2023, 16:36:48 - DEBUG - auth.service - login with email: zozo@zozo.com (userId: 65450537f7134e08305d19c9)
+3.11.2023, 16:36:48 - INFO - User signup: | {"_id":"65450580f7134e08305d19ca","email":"zozo@zozo.com","fullname":"zozo zozo","imgUrl":"#dfd8fd"} (userId: 65450537f7134e08305d19c9)
+3.11.2023, 16:36:49 - INFO - Sample Logger Middleware (userId: 65450580f7134e08305d19ca)
+3.11.2023, 16:36:49 - DEBUG - Getting Boards: | {} (userId: 65450580f7134e08305d19ca)
+3.11.2023, 16:40:01 - INFO - Sample Logger Middleware (userId: 65450580f7134e08305d19ca)
+3.11.2023, 16:40:01 - DEBUG - Getting Boards: | {} (userId: 65450580f7134e08305d19ca)
+3.11.2023, 16:40:19 - DEBUG - auth.service - signup with email: aaa@aaa.com, fullname: aaa bbb 
+3.11.2023, 16:40:19 - ERROR - Failed to signup email already taken 
+3.11.2023, 16:42:07 - DEBUG - auth.service - signup with email: df@df.com, fullname: df bf 
+3.11.2023, 16:42:07 - DEBUG - auth.route - new account created: {"email":"df@df.com","password":"$2b$10$qZtcFOq.ljP.iFHM6ZXcqOT8752qK/7sFkxz9KTOVXH488d5WaDt6","fullname":"df bf","imgUrl":"#ae4787","_id":"654506bff7134e08305d19cb"} 
+3.11.2023, 16:42:07 - DEBUG - auth.service - login with email: df@df.com 
+3.11.2023, 16:42:07 - INFO - User signup: | {"_id":"654506bff7134e08305d19cb","email":"df@df.com","fullname":"df bf","imgUrl":"#ae4787"} 
+3.11.2023, 16:42:08 - INFO - Sample Logger Middleware (userId: 654506bff7134e08305d19cb)
+3.11.2023, 16:42:08 - DEBUG - Getting Boards: | {} (userId: 654506bff7134e08305d19cb)
+3.11.2023, 16:45:14 - INFO - Server is running on port: 3030 
+3.11.2023, 16:45:32 - DEBUG - auth.service - signup with email: momo@momo.com, fullname: momo koko 
+3.11.2023, 16:45:32 - DEBUG - auth.route - new account created: {"email":"momo@momo.com","password":"$2b$10$YWjQxg875Y8ZYeTNYDpt2elwTTU/r6NSa2SBHKtLX16dEpTGke1ou","fullname":"momo koko","imgUrl":"#6e5dc6","_id":"6545078ceefb3d38c8774dc5"} 
+3.11.2023, 16:45:32 - DEBUG - auth.service - login with email: momo@momo.com 
+3.11.2023, 16:45:32 - INFO - User signup: | {"_id":"6545078ceefb3d38c8774dc5","email":"momo@momo.com","fullname":"momo koko","imgUrl":"#6e5dc6"} 
+3.11.2023, 16:45:33 - INFO - Sample Logger Middleware (userId: 6545078ceefb3d38c8774dc5)
+3.11.2023, 16:45:33 - DEBUG - Getting Boards: | {} (userId: 6545078ceefb3d38c8774dc5)
+3.11.2023, 16:50:09 - INFO - Server is running on port: 3030 
+3.11.2023, 16:51:15 - DEBUG - auth.service - signup with email: vovo@vovo.com, fullname: vovo vava 
+3.11.2023, 16:51:15 - DEBUG - auth.route - new account created: {"email":"vovo@vovo.com","password":"$2b$10$rR.LFaVFFokamaIjmGg6euYaA2Zu7GR4rLVAbPNxwpa1HyU/eRXk2","fullname":"vovo vava","imgUrl":"#d3f1a7","username":"vovo vava634","_id":"654508e3c3de9f4e20310c42"} 
+3.11.2023, 16:51:15 - DEBUG - auth.service - login with email: vovo@vovo.com 
+3.11.2023, 16:51:15 - INFO - User signup: | {"_id":"654508e3c3de9f4e20310c42","email":"vovo@vovo.com","fullname":"vovo vava","imgUrl":"#d3f1a7","username":"vovo vava634"} 
+3.11.2023, 16:51:16 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 16:51:16 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 16:53:20 - INFO - Server is running on port: 3030 
+3.11.2023, 16:53:26 - INFO - Sample Logger Middleware 
+3.11.2023, 16:53:26 - DEBUG - Getting Boards: | {} 
+3.11.2023, 16:53:35 - DEBUG - auth.service - login with email: vovo@vovo.com 
+3.11.2023, 16:53:35 - INFO - User login:  | {"_id":"654508e3c3de9f4e20310c42","email":"vovo@vovo.com","fullname":"vovo vava","imgUrl":"#d3f1a7","username":"vovo vava634"} 
+3.11.2023, 16:53:36 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 16:53:36 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:00:23 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:00:23 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:00:31 - DEBUG - auth.service - login with email: vovo@vovo.com 
+3.11.2023, 17:00:31 - INFO - User login:  | {"_id":"654508e3c3de9f4e20310c42","email":"vovo@vovo.com","fullname":"vovo vava","imgUrl":"#d3f1a7","username":"vovo vava634"} 
+3.11.2023, 17:00:32 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:00:32 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:01:12 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:01:12 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:01:38 - DEBUG - auth.service - login with email: vovo@vovo.com 
+3.11.2023, 17:01:38 - INFO - User login:  | {"_id":"654508e3c3de9f4e20310c42","email":"vovo@vovo.com","fullname":"vovo vava","imgUrl":"#d3f1a7","username":"vovo vava634"} 
+3.11.2023, 17:01:39 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:01:39 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:20:57 - DEBUG - auth.service - signup with email: bobo@bobo.com, fullname: bobo jojo 
+3.11.2023, 17:20:57 - DEBUG - auth.route - new account created: {"email":"bobo@bobo.com","password":"$2b$10$GB5A7zSt/zqE8yWYPPFXUePoYiyEoRKFvHDLWOfFsxdFh1Jd4AOYm","fullname":"bobo jojo","imgUrl":"#f87462","username":"bobojojo944","_id":"65450fd94d3d2330a8252dfe"} 
+3.11.2023, 17:20:57 - DEBUG - auth.service - login with email: bobo@bobo.com 
+3.11.2023, 17:20:58 - INFO - User signup: | {"_id":"65450fd94d3d2330a8252dfe","email":"bobo@bobo.com","fullname":"bobo jojo","imgUrl":"#f87462","username":"bobojojo944"} 
+3.11.2023, 17:20:58 - INFO - Sample Logger Middleware (userId: 65450fd94d3d2330a8252dfe)
+3.11.2023, 17:20:58 - DEBUG - Getting Boards: | {} (userId: 65450fd94d3d2330a8252dfe)
+3.11.2023, 17:24:14 - INFO - Server is running on port: 3030 
+3.11.2023, 17:32:38 - DEBUG - auth.service - login with email: tamir@gmail.com 
+3.11.2023, 17:32:38 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"} 
+3.11.2023, 17:32:39 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 17:32:39 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 17:58:27 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 17:58:27 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 17:58:56 - DEBUG - auth.service - login with email: vovo@vovo.com 
+3.11.2023, 17:58:57 - INFO - User login:  | {"_id":"654508e3c3de9f4e20310c42","email":"vovo@vovo.com","fullname":"vovo vava","imgUrl":"#d3f1a7","username":"vovo vava634"} 
+3.11.2023, 17:58:57 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:58:57 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:59:09 - INFO - Sample Logger Middleware (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:59:09 - DEBUG - Getting Boards: | {} (userId: 654508e3c3de9f4e20310c42)
+3.11.2023, 17:59:18 - DEBUG - auth.service - login with email: tamir@gmail.com 
+3.11.2023, 17:59:19 - INFO - User login:  | {"_id":"654223ba89eb112d1cca0695","email":"tamir@gmail.com","fullname":"tamir kol","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698872351/wnhzaargboocids03hh0.jpg"} 
+3.11.2023, 17:59:19 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 17:59:19 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 18:43:08 - INFO - Sample Logger Middleware (userId: 654223ba89eb112d1cca0695)
+3.11.2023, 18:43:08 - DEBUG - Getting Boards: | {} (userId: 654223ba89eb112d1cca0695)
