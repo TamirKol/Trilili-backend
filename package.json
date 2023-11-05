@@ -9,17 +9,18 @@
         "server:dev": "nodemon server.js",
         "server:prod": "set NODE_ENV=production&node server.js",
         "server:prod:mac": "export NODE_ENV=production && node server.js"
-        
     },
     "author": "Me",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.0.0",
+        "body-parser": "^1.20.2",
         "cookie-parser": "^1.4.6",
         "cors": "^2.8.5",
         "cryptr": "^6.0.3",
         "express": "^4.17.1",
         "mongodb": "^3.2.7",
+        "openai": "^4.15.3",
         "socket.io": "^4.2.0"
     },
     "devDependencies": {
