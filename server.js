@@ -59,12 +59,11 @@ server.listen(port, () => {
 
 ////////////////////ghat gpt
 import { OpenAI } from "openai";
-import { CHAT_GPT_KEY, CHAT_GPT_KEY3 } from './services/apiKeys.js'
+// import { CHAT_GPT_KEY, CHAT_GPT_KEY3 } from './services/apiKeys.js'
 import bodyParser from 'body-parser'
-import { log } from 'console'
-
+const apikey= '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'
 const openai = new OpenAI({
-    apiKey: CHAT_GPT_KEY3 // This is also the default, can be omitted
+    apiKey: apikey // This is also the default, can be omitted
 });
 
 app.use(bodyParser.json())
@@ -73,9 +72,11 @@ app.post('/chat', async (req, res) => {
     console.log(req.body);
     const { prompt } = req.body
     const completion = await openai.completions.create({
-        model: 'gpt-3.5-turbo-instruct',
-        prompt: prompt
+        model: 'gpt-3.5-turbo-instruct-0914',
+        prompt: prompt,
+        max_tokens:3000
     });
-
-    res.send(completion.data.choices[0].text)
+    console.log(completion);
+    console.log(completion.data)
+    res.send(completion.choices[0].text)
 })

@@ -41,6 +41,7 @@ export async function addBoard(req, res) {
     try {
         const board = req.body
         // board.owner = loggedinUser
+        console.log('yupdo')
         const addedBoard = await boardService.add(board)
         // socketService.broadcast({ type: 'board-added', data: addedBoard, userId: loggedinUser._id })
         res.json(addedBoard)
