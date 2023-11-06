@@ -7590,3 +7590,75 @@
 6.11.2023, 23:45:54 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
 6.11.2023, 23:45:54 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
 6.11.2023, 23:46:37 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:00:56 - INFO - Server is running on port: 3030 
+7.11.2023, 0:00:57 - INFO - New connected socket [id: _aDPPogpqO5ih7vhAAAB] 
+7.11.2023, 0:00:58 - INFO - New connected socket [id: UxiU988UR3RNUthqAAAD] 
+7.11.2023, 0:00:59 - INFO - New connected socket [id: uHsBTY0iLw5OTRNPAAAF] 
+7.11.2023, 0:01:34 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:01:35 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:01:49 - INFO - New connected socket [id: zBw6PBzoNYAGpQvuAAAH] 
+7.11.2023, 0:01:50 - INFO - New connected socket [id: AZkjW9QDq1k4cUdSAAAJ] 
+7.11.2023, 0:03:45 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:03:45 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:03:56 - INFO - New connected socket [id: RgHVHp_QfzdfVtRHAAAL] 
+7.11.2023, 0:03:59 - INFO - New connected socket [id: ZwHoS7if_KozZfhAAAAN] 
+7.11.2023, 0:04:10 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:10 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:28 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:28 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:30 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:30 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:31 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:31 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:31 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:31 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:32 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:32 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:35 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:35 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:36 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:36 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:42 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:42 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:44 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:44 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:49 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:49 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:50 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:50 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:53 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:04:53 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:02 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:02 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:03 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:03 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:09 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:09 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:21 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:21 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:52 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:05:52 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:30 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:30 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:33 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:33 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:35 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:35 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:35 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:35 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:36 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:36 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 0:13:37 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:13:38 - INFO - New connected socket [id: JpYo7akZUj4sFxljAAAP] 
+7.11.2023, 0:13:58 - INFO - Server is running on port: 3030 
+7.11.2023, 0:13:58 - INFO - New connected socket [id: mYwYdCVUk1jqFO1-AAAB] 
+7.11.2023, 0:13:58 - INFO - New connected socket [id: aXDUjAhN5ccXBVVvAAAD] 
+7.11.2023, 0:14:01 - INFO - New connected socket [id: nAuB5ZuTMwwTcM_sAAAF] 
+7.11.2023, 0:14:07 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:14:11 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 0:14:17 - INFO - New connected socket [id: _DtcBAJnh6IhBWi5AAAH] 
+7.11.2023, 0:14:24 - INFO - New connected socket [id: ml5xRwxi8RfskNZbAAAJ] 
+7.11.2023, 0:16:37 - INFO - Server is running on port: 3030 
+7.11.2023, 0:16:37 - INFO - New connected socket [id: IO_BsUA3DjKQrsmmAAAC] 
+7.11.2023, 0:16:37 - INFO - New connected socket [id: Em-6G71W3zHVEQ8fAAAD] 
+7.11.2023, 0:16:37 - INFO - New connected socket [id: 6vAbwobGA6uc_eVPAAAF] 
