@@ -63,7 +63,6 @@ import { OpenAI } from "openai";
 import { CHAT_GPT_KEY4 } from './services/apiKeys.js'
 import bodyParser from 'body-parser'
 import { log } from 'console'
-const apikey = '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'
 
 const openai = new OpenAI({
     apiKey: CHAT_GPT_KEY4
