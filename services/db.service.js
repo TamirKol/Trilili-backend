@@ -1,8 +1,8 @@
 import mongoDB from 'mongodb'
-const {MongoClient} = mongoDB
+const { MongoClient } = mongoDB
 
-import {config} from '../config/index.js'
-import {logger}  from './logger.service.js'
+import { config } from '../config/index.js'
+import { logger } from './logger.service.js'
 
 export const dbService = {
     getCollection

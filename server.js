@@ -12,20 +12,20 @@ app.use(cookieParser())
 app.use(express.json())
 
 
-// if (process.env.NODE_ENV === 'production') {
-//     app.use(express.static(path.resolve('public')))
-// } else {
-const corsOptions = {
-    origin: [
-        'http://127.0.0.1:3000',
-        'http://localhost:3000',
-        'http://127.0.0.1:5173',
-        'http://localhost:5173'
-    ],
-    credentials: true
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.resolve('public')))
+} else {
+    const corsOptions = {
+        origin: [
+            'http://127.0.0.1:3000',
+            'http://localhost:3000',
+            'http://127.0.0.1:5173',
+            'http://localhost:5173'
+        ],
+        credentials: true
+    }
+    app.use(cors(corsOptions))
 }
-app.use(cors(corsOptions))
-// }
 
 import { authRoutes } from './api/auth/auth.routes.js'
 // import { userRoutes } from './api/user/user.routes.js'
@@ -57,25 +57,26 @@ server.listen(port, () => {
 
 
 
-////////////////////ghat gpt
+//chat gpt
+
 import { OpenAI } from "openai";
 import { CHAT_GPT_KEY4 } from './services/apiKeys.js'
 import bodyParser from 'body-parser'
 import { log } from 'console'
+const apikey = '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'
 
 const openai = new OpenAI({
-    apiKey: CHAT_GPT_KEY4 // This is also the default, can be omitted
+    apiKey: CHAT_GPT_KEY4
 });
 
 app.use(bodyParser.json())
 
 app.post('/chat', async (req, res) => {
-    console.log(req.body);
     const { prompt } = req.body
     const completion = await openai.completions.create({
-        model: 'gpt-3.5-turbo-instruct',
-        prompt: prompt
+        model: 'gpt-3.5-turbo-instruct-0914',
+        prompt: prompt,
+        max_tokens: 3000
     });
-
-    res.send(completion.data.choices[0].text)
+    res.send(completion.choices[0].text)
 })
