@@ -4744,3 +4744,506 @@
 5.11.2023, 15:56:22 - INFO - Server is running on port: 3030 
 5.11.2023, 15:56:22 - INFO - New connected socket [id: VGEyVMYl5x6VlLz6AAAB] 
 5.11.2023, 15:56:24 - INFO - New connected socket [id: 2OlO3uIXfxwHBSX7AAAD] 
+5.11.2023, 17:04:38 - INFO - Server is running on port: 3030 
+5.11.2023, 17:04:38 - INFO - New connected socket [id: P9-5QvRNXYGOFPPoAAAC] 
+5.11.2023, 17:04:38 - DEBUG - Getting Boards: | {"keywords":""} 
+5.11.2023, 17:04:38 - INFO - Sample Logger Middleware 
+5.11.2023, 17:04:38 - INFO - New connected socket [id: HLRjd3GP3tnIvxBVAAAD] 
+5.11.2023, 17:05:02 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:05:02 - INFO - Emit to all 
+5.11.2023, 17:05:04 - INFO - Emit to all 
+5.11.2023, 17:05:04 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:05:05 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:05:05 - INFO - Emit to all 
+5.11.2023, 17:05:05 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:05:05 - INFO - Emit to all 
+5.11.2023, 17:05:06 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:05:06 - INFO - Emit to all 
+5.11.2023, 17:05:15 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 17:05:16 - INFO - New connected socket [id: IYaOeKVmFH3b3FBmAAAF] 
+5.11.2023, 17:07:56 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:07:56 - INFO - Emit to all 
+5.11.2023, 17:07:58 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:07:58 - INFO - Emit to all 
+5.11.2023, 17:11:12 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 17:11:14 - INFO - New connected socket [id: gNm3zQB0ZP5az_JgAAAH] 
+5.11.2023, 17:11:23 - INFO - Broadcasting event: board-updated 
+5.11.2023, 17:11:23 - INFO - Emit to all 
+5.11.2023, 17:40:23 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 17:40:24 - INFO - New connected socket [id: k8qxROpKYUXv9gCUAAAJ] 
+5.11.2023, 17:40:28 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 17:40:29 - INFO - New connected socket [id: El2UIG-ejKISVmhfAAAL] 
+5.11.2023, 18:08:44 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:08:45 - INFO - New connected socket [id: 91grIU6pmc4mJ4JJAAAN] 
+5.11.2023, 18:13:00 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:13:01 - INFO - New connected socket [id: cENVLvd6NGUJxZ72AAAP] 
+5.11.2023, 18:19:06 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:19:08 - INFO - New connected socket [id: ZMc_Ej2tMsOjtrXzAAAR] 
+5.11.2023, 18:20:18 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:20:19 - INFO - New connected socket [id: G5a_SpJt7hl3Gyg-AAAT] 
+5.11.2023, 18:21:27 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:21:28 - INFO - New connected socket [id: WodpJM2inzi5SHmUAAAV] 
+5.11.2023, 18:23:32 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:23:33 - INFO - New connected socket [id: ttJINstknDi7WBc2AAAX] 
+5.11.2023, 18:23:52 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:23:53 - INFO - New connected socket [id: _3ZmDRklpSnoqOtdAAAZ] 
+5.11.2023, 18:32:23 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:32:24 - INFO - New connected socket [id: D75mKVFy4SOSOjB-AAAb] 
+5.11.2023, 18:34:24 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:34:25 - INFO - New connected socket [id: gvDGPDbQ0j7yGD8PAAAd] 
+5.11.2023, 18:35:34 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:35:35 - INFO - New connected socket [id: VfO2K2F1hSaxkGaVAAAf] 
+5.11.2023, 18:42:15 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:42:16 - INFO - New connected socket [id: mp6TTBM9hp0h95EIAAAh] 
+5.11.2023, 18:42:50 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:42:51 - INFO - New connected socket [id: 9DanweCaZvMBxFFTAAAj] 
+5.11.2023, 18:44:16 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:44:16 - INFO - New connected socket [id: KQUvMtFrNZLL_DCSAAAl] 
+5.11.2023, 18:45:33 - INFO - Broadcasting event: board-updated 
+5.11.2023, 18:45:33 - INFO - Emit to all 
+5.11.2023, 18:45:57 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:45:58 - INFO - New connected socket [id: pmVX6Zw9hqIhMFuIAAAn] 
+5.11.2023, 18:52:00 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:52:02 - INFO - New connected socket [id: fC5C537LUUn8oRdyAAAp] 
+5.11.2023, 18:55:28 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 18:56:31 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 19:01:16 - INFO - New connected socket [id: _R_Wu5sFzBfESnz_AAAr] 
+5.11.2023, 19:01:42 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 19:01:43 - INFO - New connected socket [id: BTGeu4kBgDQm6KeFAAAt] 
+5.11.2023, 19:01:44 - INFO - Sample Logger Middleware 
+5.11.2023, 19:01:44 - DEBUG - Getting Boards: | {"keywords":""} 
+5.11.2023, 19:01:47 - INFO - Sample Logger Middleware 
+5.11.2023, 19:01:47 - DEBUG - Getting Boards: | {"keywords":""} 
+5.11.2023, 19:03:30 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 19:03:31 - INFO - New connected socket [id: 3Y6gFJldSwmH-DWJAAAv] 
+5.11.2023, 19:14:36 - INFO - New connected socket [id: nAmaG4-RVjEbr4j0AAAx] 
+5.11.2023, 19:19:01 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 19:19:03 - INFO - New connected socket [id: VNO18NTXGxRtF7XcAAAz] 
+5.11.2023, 20:19:25 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:19:26 - INFO - New connected socket [id: 24ZOwBzQhFFWPZXiAAA1] 
+5.11.2023, 20:19:41 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:19:42 - INFO - New connected socket [id: 7KxRTQX1MXQ_6xpCAAA3] 
+5.11.2023, 20:21:03 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:21:04 - INFO - New connected socket [id: -y_52COZQPOLzs5sAAA5] 
+5.11.2023, 20:21:29 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:21:30 - INFO - New connected socket [id: MffPTFKRMpwUqQoeAAA7] 
+5.11.2023, 20:24:14 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:24:15 - INFO - New connected socket [id: bG8sieihQ_IO3uRdAAA9] 
+5.11.2023, 20:25:31 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:25:32 - INFO - New connected socket [id: p9O-KCJP7LEI-04SAAA_] 
+5.11.2023, 20:29:04 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:29:05 - INFO - New connected socket [id: uxAqd1SJ_fNSfmZDAABB] 
+5.11.2023, 20:30:00 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:30:01 - INFO - New connected socket [id: aWe1cHcExJi2aFmfAABD] 
+5.11.2023, 20:32:01 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:32:02 - INFO - New connected socket [id: HWN5pzywnkORAzFwAABF] 
+5.11.2023, 20:38:11 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:38:12 - INFO - New connected socket [id: wxEu3Xv1Ex8tYdEeAABH] 
+5.11.2023, 20:43:13 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:43:14 - INFO - New connected socket [id: Pwdl7dhPBJWs2VTvAABJ] 
+5.11.2023, 20:50:56 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:50:58 - INFO - New connected socket [id: ZsjUiy8aOCQmgVTsAABL] 
+5.11.2023, 20:55:16 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 20:55:17 - INFO - New connected socket [id: Dsy6Xtpm5bvfsOyhAABN] 
+5.11.2023, 21:05:16 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:05:17 - INFO - New connected socket [id: SULOY0tiMXWKRj2EAABP] 
+5.11.2023, 21:08:05 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:08:06 - INFO - New connected socket [id: bYrxDWKmo5QHSfRBAABR] 
+5.11.2023, 21:17:55 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:17:56 - INFO - New connected socket [id: yaT3rfR47tbyJCUUAABT] 
+5.11.2023, 21:19:13 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:19:14 - INFO - New connected socket [id: L1RnGwTGRJTFtnDOAABV] 
+5.11.2023, 21:20:12 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:20:13 - INFO - New connected socket [id: STUmJw2Ug6KZ4I_WAABX] 
+5.11.2023, 21:31:01 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:31:02 - INFO - New connected socket [id: pPWOdIZpnr45jEYPAABZ] 
+5.11.2023, 21:33:32 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:33:33 - INFO - New connected socket [id: br_qxlwnFzIW8l8NAABb] 
+5.11.2023, 21:35:19 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:35:20 - INFO - New connected socket [id: MLIkhFgJ_Pm8BILnAABd] 
+5.11.2023, 21:35:47 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 21:35:48 - INFO - New connected socket [id: 20E6XT1GsmErOCGKAABf] 
+5.11.2023, 22:10:37 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:10:38 - INFO - New connected socket [id: Sn3_e-ijQEFlWjIQAABh] 
+5.11.2023, 22:12:27 - INFO - Broadcasting event: board-updated 
+5.11.2023, 22:12:27 - INFO - Emit to all 
+5.11.2023, 22:20:43 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:20:44 - INFO - New connected socket [id: scjY_r8o0sJRi5ZIAABj] 
+5.11.2023, 22:20:46 - INFO - Sample Logger Middleware 
+5.11.2023, 22:20:46 - DEBUG - Getting Boards: | {"keywords":""} 
+5.11.2023, 22:21:22 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:21:23 - INFO - New connected socket [id: 5me9Fn_jbUljXduRAABl] 
+5.11.2023, 22:22:30 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:22:31 - INFO - New connected socket [id: 61Sxj47g3jks7jYVAABn] 
+5.11.2023, 22:22:40 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:22:41 - INFO - New connected socket [id: ygXvgzMF_qUMW4rgAABp] 
+5.11.2023, 22:23:06 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:23:07 - INFO - New connected socket [id: gPyrEdLFvQeYMlgSAABr] 
+5.11.2023, 22:23:15 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:23:16 - INFO - New connected socket [id: --nmbAnX0gbYxNJtAABt] 
+5.11.2023, 22:23:26 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:23:27 - INFO - New connected socket [id: ReJP9jXspd3s4T6fAABv] 
+5.11.2023, 22:25:02 - INFO - Broadcasting event: board-updated 
+5.11.2023, 22:25:02 - INFO - Emit to all 
+5.11.2023, 22:25:03 - INFO - Broadcasting event: board-updated 
+5.11.2023, 22:25:03 - INFO - Emit to all 
+5.11.2023, 22:31:01 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:31:02 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:31:08 - INFO - New connected socket [id: MYpW6jHVG26WFzKfAABy] 
+5.11.2023, 22:31:08 - INFO - New connected socket [id: iqtNanmABefzCMtYAABz] 
+5.11.2023, 22:31:25 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:31:26 - INFO - New connected socket [id: 4ikeZYscQAoSRyG8AAB1] 
+5.11.2023, 22:31:36 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:31:37 - INFO - New connected socket [id: D0WbG9ctTxM3o67rAAB3] 
+5.11.2023, 22:31:39 - INFO - Sample Logger Middleware 
+5.11.2023, 22:31:39 - DEBUG - Getting Boards: | {"keywords":""} 
+5.11.2023, 22:31:57 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:31:58 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:32:00 - INFO - New connected socket [id: dpROXYrpeBxvKjV8AAB5] 
+5.11.2023, 22:32:03 - INFO - New connected socket [id: ScKRWwTJgoEDzTdJAAB7] 
+5.11.2023, 22:32:21 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:32:21 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:32:22 - INFO - New connected socket [id: 6XpXDPiACDi9QESlAAB9] 
+5.11.2023, 22:32:25 - INFO - New connected socket [id: TmOkmOm6REwxnTwHAAB_] 
+5.11.2023, 22:32:56 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:32:56 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:32:58 - INFO - New connected socket [id: vtYVIhTzgAowvoA4AACB] 
+5.11.2023, 22:33:01 - INFO - New connected socket [id: 3Gd_UVb_3sNoMfkhAACD] 
+5.11.2023, 22:33:35 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:33:35 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:33:37 - INFO - New connected socket [id: np4GKPFW_bctX18DAACF] 
+5.11.2023, 22:33:39 - INFO - New connected socket [id: xoHEOJkgTzf-mWQIAACH] 
+5.11.2023, 22:33:44 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:33:45 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:33:46 - INFO - New connected socket [id: SycZrPmtQbdmd4q9AACJ] 
+5.11.2023, 22:33:49 - INFO - New connected socket [id: V6lqW-S9lA_3_a_EAACL] 
+5.11.2023, 22:33:55 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:33:56 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:33:57 - INFO - New connected socket [id: GwNUamtiknhFtbm_AACN] 
+5.11.2023, 22:34:01 - INFO - New connected socket [id: KZuqm_jGWMP4akqXAACP] 
+5.11.2023, 22:34:27 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:34:28 - INFO - New connected socket [id: 8JyauqRy1tPGCetUAACR] 
+5.11.2023, 22:34:47 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:34:47 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:34:50 - INFO - New connected socket [id: mUXuG8x8lBWX3RRUAACT] 
+5.11.2023, 22:34:52 - INFO - New connected socket [id: 6j8mErdiz_aJazmCAACV] 
+5.11.2023, 22:35:01 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:35:02 - INFO - New connected socket [id: mMTIQDb4oi8TJpuZAACX] 
+5.11.2023, 22:36:02 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:36:03 - INFO - New connected socket [id: iTxTlDw8ZUubSkAaAACZ] 
+5.11.2023, 22:36:48 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:36:50 - INFO - New connected socket [id: suJzcV1mGnfSxbWjAACb] 
+5.11.2023, 22:37:35 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:37:36 - INFO - New connected socket [id: Kf9GAjybop9CbjKaAACd] 
+5.11.2023, 22:38:12 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:38:23 - INFO - New connected socket [id: _Li7nhnK8Bmi4xnWAACf] 
+5.11.2023, 22:43:07 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:43:07 - INFO - New connected socket [id: fsZMA0ukE_liIW6tAACh] 
+5.11.2023, 22:43:22 - INFO - Broadcasting event: board-updated 
+5.11.2023, 22:43:22 - INFO - Emit to all 
+5.11.2023, 22:51:06 - INFO - Broadcasting event: board-updated 
+5.11.2023, 22:51:06 - INFO - Emit to all 
+5.11.2023, 22:56:13 - INFO - Broadcasting event: board-updated 
+5.11.2023, 22:56:13 - INFO - Emit to all 
+5.11.2023, 22:56:43 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 22:56:44 - INFO - New connected socket [id: ElwEz-RM8aS04Vv0AACj] 
+5.11.2023, 22:59:45 - INFO - Server is running on port: 3030 
+5.11.2023, 22:59:46 - INFO - New connected socket [id: fBZ-quNS5SDEWaLuAAAC] 
+5.11.2023, 22:59:46 - INFO - New connected socket [id: 0gG3HYd_U6k9gpCxAAAD] 
+5.11.2023, 23:00:18 - DEBUG - Getting Boards: | {"keywords":""} 
+5.11.2023, 23:00:18 - INFO - Sample Logger Middleware 
+5.11.2023, 23:02:56 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 23:02:57 - INFO - New connected socket [id: mwA586CrT_RI9LttAAAF] 
+5.11.2023, 23:06:01 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 23:06:02 - INFO - New connected socket [id: 4317sdsg8viLRwZOAAAH] 
+5.11.2023, 23:06:14 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 23:06:15 - INFO - New connected socket [id: GcF6GKRVbR7l3kbNAAAJ] 
+5.11.2023, 23:07:23 - INFO - Socket disconnected [id: undefined] 
+5.11.2023, 23:07:26 - INFO - New connected socket [id: IvOV4cjehO-NXwtWAAAL] 
+5.11.2023, 23:51:04 - INFO - Sample Logger Middleware 
+5.11.2023, 23:51:04 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 0:10:34 - INFO - Sample Logger Middleware 
+6.11.2023, 0:10:34 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 0:11:06 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:06 - INFO - Emit to all 
+6.11.2023, 0:11:10 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:10 - INFO - Emit to all 
+6.11.2023, 0:11:12 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:12 - INFO - Emit to all 
+6.11.2023, 0:11:12 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:12 - INFO - Emit to all 
+6.11.2023, 0:11:12 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:12 - INFO - Emit to all 
+6.11.2023, 0:11:26 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:26 - INFO - Emit to all 
+6.11.2023, 0:11:28 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:28 - INFO - Emit to all 
+6.11.2023, 0:11:32 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:32 - INFO - Emit to all 
+6.11.2023, 0:11:32 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:32 - INFO - Emit to all 
+6.11.2023, 0:11:36 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:36 - INFO - Emit to all 
+6.11.2023, 0:11:55 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:11:55 - INFO - Emit to all 
+6.11.2023, 0:21:35 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 0:21:35 - INFO - Sample Logger Middleware 
+6.11.2023, 0:33:58 - INFO - Sample Logger Middleware 
+6.11.2023, 0:33:58 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 0:35:22 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 0:35:23 - INFO - New connected socket [id: Lz3_5OemEud5S6wiAAAN] 
+6.11.2023, 0:39:59 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:39:59 - INFO - Emit to all 
+6.11.2023, 0:40:00 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:40:00 - INFO - Emit to all 
+6.11.2023, 0:43:03 - INFO - Sample Logger Middleware 
+6.11.2023, 0:43:03 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 0:56:21 - INFO - Sample Logger Middleware 
+6.11.2023, 0:56:21 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 0:57:18 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:57:18 - INFO - Emit to all 
+6.11.2023, 0:57:19 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:57:19 - INFO - Emit to all 
+6.11.2023, 0:57:20 - INFO - Broadcasting event: board-updated 
+6.11.2023, 0:57:20 - INFO - Emit to all 
+6.11.2023, 1:01:58 - INFO - Sample Logger Middleware 
+6.11.2023, 1:01:58 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:02:23 - INFO - Sample Logger Middleware 
+6.11.2023, 1:02:23 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:02:36 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:02:36 - INFO - Sample Logger Middleware 
+6.11.2023, 1:02:39 - INFO - Sample Logger Middleware 
+6.11.2023, 1:02:39 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:02:43 - INFO - Sample Logger Middleware 
+6.11.2023, 1:02:43 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:02:46 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:02:46 - INFO - Emit to all 
+6.11.2023, 1:02:47 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:02:47 - INFO - Emit to all 
+6.11.2023, 1:02:47 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:02:47 - INFO - Emit to all 
+6.11.2023, 1:03:33 - INFO - Sample Logger Middleware 
+6.11.2023, 1:03:33 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:06:03 - INFO - Sample Logger Middleware 
+6.11.2023, 1:06:03 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:06:31 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 1:06:32 - INFO - New connected socket [id: oCmnsvcWdL0B5wOqAAAP] 
+6.11.2023, 1:06:33 - INFO - Sample Logger Middleware 
+6.11.2023, 1:06:33 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:06:39 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:39 - INFO - Emit to all 
+6.11.2023, 1:06:46 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:46 - INFO - Emit to all 
+6.11.2023, 1:06:47 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:47 - INFO - Emit to all 
+6.11.2023, 1:06:47 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:47 - INFO - Emit to all 
+6.11.2023, 1:06:51 - INFO - Emit to all 
+6.11.2023, 1:06:51 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:51 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:51 - INFO - Emit to all 
+6.11.2023, 1:06:52 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:52 - INFO - Emit to all 
+6.11.2023, 1:06:52 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:52 - INFO - Emit to all 
+6.11.2023, 1:06:54 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:54 - INFO - Emit to all 
+6.11.2023, 1:06:57 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:06:57 - INFO - Emit to all 
+6.11.2023, 1:07:00 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:00 - INFO - Emit to all 
+6.11.2023, 1:07:01 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:01 - INFO - Emit to all 
+6.11.2023, 1:07:03 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:03 - INFO - Emit to all 
+6.11.2023, 1:07:03 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:03 - INFO - Emit to all 
+6.11.2023, 1:07:06 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:06 - INFO - Emit to all 
+6.11.2023, 1:07:07 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:07 - INFO - Emit to all 
+6.11.2023, 1:07:12 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:12 - INFO - Emit to all 
+6.11.2023, 1:07:13 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:13 - INFO - Emit to all 
+6.11.2023, 1:07:14 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:14 - INFO - Emit to all 
+6.11.2023, 1:07:14 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:14 - INFO - Emit to all 
+6.11.2023, 1:07:14 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:14 - INFO - Emit to all 
+6.11.2023, 1:07:16 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:07:16 - INFO - Emit to all 
+6.11.2023, 1:07:44 - INFO - Emit to all 
+6.11.2023, 1:07:44 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:08:06 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:08:06 - INFO - Emit to all 
+6.11.2023, 1:08:07 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:08:07 - INFO - Emit to all 
+6.11.2023, 1:08:18 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 1:08:19 - INFO - New connected socket [id: 0KUEhG9SJ0qjg2bbAAAR] 
+6.11.2023, 1:08:27 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:08:27 - INFO - Emit to all 
+6.11.2023, 1:08:29 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:08:29 - INFO - Emit to all 
+6.11.2023, 1:09:18 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:09:18 - INFO - Emit to all 
+6.11.2023, 1:09:20 - INFO - Emit to all 
+6.11.2023, 1:09:20 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:09:22 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:09:22 - INFO - Emit to all 
+6.11.2023, 1:09:25 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:09:25 - INFO - Emit to all 
+6.11.2023, 1:09:26 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:09:26 - INFO - Emit to all 
+6.11.2023, 1:13:47 - INFO - Server is running on port: 3030 
+6.11.2023, 1:13:47 - INFO - New connected socket [id: 9zJjobs_ev1AFKevAAAB] 
+6.11.2023, 1:13:47 - INFO - New connected socket [id: lDby33z46G33O3PRAAAD] 
+6.11.2023, 1:14:19 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:14:19 - INFO - Emit to all 
+6.11.2023, 1:14:22 - INFO - Sample Logger Middleware 
+6.11.2023, 1:14:22 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:14:37 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:14:37 - INFO - Emit to all 
+6.11.2023, 1:19:18 - INFO - Sample Logger Middleware 
+6.11.2023, 1:19:18 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:23:10 - INFO - Sample Logger Middleware 
+6.11.2023, 1:23:10 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:23:39 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:23:39 - INFO - Emit to all 
+6.11.2023, 1:23:42 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:23:42 - INFO - Emit to all 
+6.11.2023, 1:23:44 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:23:44 - INFO - Emit to all 
+6.11.2023, 1:24:14 - INFO - Broadcasting event: board-updated 
+6.11.2023, 1:24:14 - INFO - Emit to all 
+6.11.2023, 1:31:49 - INFO - Server is running on port: 3030 
+6.11.2023, 1:31:49 - INFO - New connected socket [id: 85OXcLA5JP8mdb1NAAAB] 
+6.11.2023, 1:31:51 - INFO - New connected socket [id: AZbBag25P1fCo0gJAAAD] 
+6.11.2023, 1:31:56 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 1:31:57 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 1:34:59 - INFO - New connected socket [id: vs9gq_YROhWfcr5tAAAF] 
+6.11.2023, 1:35:06 - INFO - Server is running on port: 3030 
+6.11.2023, 1:35:06 - INFO - New connected socket [id: 2h74MCvhra1EnZJAAAAB] 
+6.11.2023, 1:35:11 - INFO - New connected socket [id: 1ogtlxBOTvXbABPkAAAD] 
+6.11.2023, 1:35:14 - INFO - Sample Logger Middleware 
+6.11.2023, 1:35:14 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:41:29 - INFO - Sample Logger Middleware 
+6.11.2023, 1:41:29 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:52:31 - INFO - Server is running on port: 3030 
+6.11.2023, 1:52:31 - INFO - New connected socket [id: YtmCsiyzgRnclqJHAAAC] 
+6.11.2023, 1:52:31 - INFO - New connected socket [id: aeX0eCIwqXxI3XmeAAAD] 
+6.11.2023, 1:54:14 - INFO - Sample Logger Middleware 
+6.11.2023, 1:54:14 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:54:26 - INFO - Sample Logger Middleware 
+6.11.2023, 1:54:26 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 1:54:29 - INFO - Sample Logger Middleware 
+6.11.2023, 1:54:29 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:21:45 - INFO - Sample Logger Middleware 
+6.11.2023, 2:21:45 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:21:50 - INFO - Sample Logger Middleware 
+6.11.2023, 2:21:50 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:21:57 - INFO - Sample Logger Middleware 
+6.11.2023, 2:21:57 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:21:59 - INFO - Sample Logger Middleware 
+6.11.2023, 2:21:59 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:22:06 - INFO - Sample Logger Middleware 
+6.11.2023, 2:22:06 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:22:09 - INFO - Sample Logger Middleware 
+6.11.2023, 2:22:09 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:22:15 - INFO - Sample Logger Middleware 
+6.11.2023, 2:22:15 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:22:27 - INFO - Sample Logger Middleware 
+6.11.2023, 2:22:27 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:22:33 - INFO - Sample Logger Middleware 
+6.11.2023, 2:22:33 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 2:25:00 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 2:25:01 - INFO - New connected socket [id: jrY41_s0bNSNIbjJAAAF] 
+6.11.2023, 2:32:26 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 2:32:26 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 10:48:06 - INFO - New connected socket [id: yWRNGeXplZ90-Xs5AAAH] 
+6.11.2023, 10:48:22 - INFO - New connected socket [id: C15INkBLefwiiHwnAAAJ] 
+6.11.2023, 10:49:14 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 10:49:16 - INFO - New connected socket [id: GsVZ5oUFBvVmPsMWAAAL] 
+6.11.2023, 11:02:50 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 11:02:54 - INFO - New connected socket [id: OZ07Aaq8ESqkLMw6AAAN] 
+6.11.2023, 11:06:19 - INFO - Sample Logger Middleware 
+6.11.2023, 11:06:19 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:06:25 - INFO - Sample Logger Middleware 
+6.11.2023, 11:06:25 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:06:29 - INFO - Sample Logger Middleware 
+6.11.2023, 11:06:29 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:06:32 - INFO - Sample Logger Middleware 
+6.11.2023, 11:06:32 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:06:38 - INFO - Sample Logger Middleware 
+6.11.2023, 11:06:38 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:06:43 - INFO - Sample Logger Middleware 
+6.11.2023, 11:06:43 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:11:53 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 11:12:05 - INFO - New connected socket [id: kbOk4v7FY-eTlD6AAAAP] 
+6.11.2023, 11:12:05 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:12:05 - INFO - Sample Logger Middleware 
+6.11.2023, 11:12:10 - INFO - Server is running on port: 3030 
+6.11.2023, 11:12:10 - INFO - New connected socket [id: RxeAEChovQgD8prEAAAB] 
+6.11.2023, 11:12:19 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 11:12:23 - INFO - New connected socket [id: M7haFYFt2pi8BwqGAAAD] 
+6.11.2023, 11:12:23 - INFO - Sample Logger Middleware 
+6.11.2023, 11:12:23 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:15:27 - INFO - New connected socket [id: ijmiJKMT4mljZDroAAAF] 
+6.11.2023, 11:15:28 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 11:15:29 - INFO - New connected socket [id: nOf5tsX7lti4G2udAAAH] 
+6.11.2023, 11:16:05 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:16:05 - INFO - Emit to all 
+6.11.2023, 11:18:04 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 11:18:07 - INFO - New connected socket [id: _Z4DM24mjwe8BjHIAAAJ] 
+6.11.2023, 11:24:41 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:24:41 - INFO - Emit to all 
+6.11.2023, 11:26:32 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:26:32 - INFO - Emit to all 
+6.11.2023, 11:26:34 - INFO - Emit to all 
+6.11.2023, 11:26:34 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:26:39 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:26:39 - INFO - Emit to all 
+6.11.2023, 11:26:41 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:26:41 - INFO - Emit to all 
+6.11.2023, 11:28:26 - INFO - Broadcasting event: board-updated 
+6.11.2023, 11:28:26 - INFO - Emit to all 
+6.11.2023, 11:48:28 - INFO - Sample Logger Middleware 
+6.11.2023, 11:48:28 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 11:59:22 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 11:59:23 - INFO - New connected socket [id: qovTOCfu4iGCYJSLAAAL] 
+6.11.2023, 11:59:23 - INFO - Sample Logger Middleware 
+6.11.2023, 11:59:23 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:01:13 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 12:01:18 - INFO - New connected socket [id: GfVdiYiw2YutxOilAAAN] 
+6.11.2023, 12:01:18 - INFO - Sample Logger Middleware 
+6.11.2023, 12:01:18 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:01:25 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 12:01:26 - INFO - New connected socket [id: RJlz6Px1ySvu9ssjAAAP] 
+6.11.2023, 12:01:26 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:01:26 - INFO - Sample Logger Middleware 
+6.11.2023, 12:01:32 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 12:01:33 - INFO - New connected socket [id: 33t_2jjkSaXaECScAAAR] 
+6.11.2023, 12:02:17 - INFO - Server is running on port: 3030 
+6.11.2023, 12:02:17 - INFO - New connected socket [id: 52nw0O6VdsvbmpmYAAAB] 
+6.11.2023, 12:02:21 - INFO - New connected socket [id: nphleM-_hcrzhgGeAAAD] 
+6.11.2023, 12:03:16 - INFO - Sample Logger Middleware 
+6.11.2023, 12:03:16 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:03:20 - INFO - Sample Logger Middleware 
+6.11.2023, 12:03:20 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:03:25 - INFO - Sample Logger Middleware 
+6.11.2023, 12:03:25 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:03:29 - INFO - Sample Logger Middleware 
+6.11.2023, 12:03:29 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:03:33 - INFO - Sample Logger Middleware 
+6.11.2023, 12:03:33 - DEBUG - Getting Boards: | {"keywords":""} 
+6.11.2023, 12:05:17 - INFO - Server is running on port: 3030 
+6.11.2023, 12:05:18 - INFO - New connected socket [id: IESlGt20M3FA1ET2AAAB] 
+6.11.2023, 12:05:18 - INFO - New connected socket [id: sBeHM9Twtcvd2H2dAAAD] 
+6.11.2023, 12:05:37 - INFO - Server is running on port: 3030 
+6.11.2023, 12:05:38 - INFO - New connected socket [id: i1iFiYuq8sL2JrR3AAAB] 
+6.11.2023, 12:05:38 - INFO - New connected socket [id: mDpolpeMZmq5ojv5AAAD] 
+6.11.2023, 12:05:45 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 12:05:46 - INFO - New connected socket [id: CnG_veIIWEPHLIWhAAAF] 
+6.11.2023, 12:09:14 - INFO - Socket disconnected [id: undefined] 
+6.11.2023, 12:09:26 - INFO - New connected socket [id: Z75_zDFVIn-rS8ZPAAAH] 

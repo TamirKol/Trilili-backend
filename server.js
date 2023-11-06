@@ -59,12 +59,12 @@ server.listen(port, () => {
 
 ////////////////////ghat gpt
 import { OpenAI } from "openai";
-import { CHAT_GPT_KEY, CHAT_GPT_KEY3 } from './services/apiKeys.js'
+import { CHAT_GPT_KEY4 } from './services/apiKeys.js'
 import bodyParser from 'body-parser'
 import { log } from 'console'
 
 const openai = new OpenAI({
-    apiKey: CHAT_GPT_KEY3 // This is also the default, can be omitted
+    apiKey: CHAT_GPT_KEY4 // This is also the default, can be omitted
 });
 
 app.use(bodyParser.json())
