@@ -8119,3 +8119,9 @@
 7.11.2023, 22:39:51 - INFO - New connected socket [id: plYh3IObp42giT1KAAAR] 
 7.11.2023, 22:41:51 - INFO - Socket disconnected [id: undefined] 
 7.11.2023, 22:41:52 - INFO - New connected socket [id: VxpPyEvvYTo48KdpAAAT] 
+8.11.2023, 0:19:39 - INFO - Server is running on port: 3030 
+8.11.2023, 0:19:41 - INFO - New connected socket [id: sdWidDO591-3BHK4AAAB] 
+8.11.2023, 0:19:46 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+8.11.2023, 0:19:46 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+8.11.2023, 0:20:09 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+8.11.2023, 0:20:09 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
