@@ -63,7 +63,8 @@ import { OpenAI } from "openai";
 import bodyParser from 'body-parser'
 import { log } from 'console'
 const openai = new OpenAI({
-    apiKey: process.env.API_KEY
+    apiKey: process.env.API_KEY,
+    organization: 'org-LNkWC9F4vowkBe3p0kjdl063'
 });
 
 app.use(bodyParser.json())
