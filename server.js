@@ -62,7 +62,7 @@ server.listen(port, () => {
 import { OpenAI } from "openai";
 import bodyParser from 'body-parser'
 const openai = new OpenAI({
-    apiKey: ''
+    apiKey: process.env.API_KEY
 });
 
 app.use(bodyParser.json())
