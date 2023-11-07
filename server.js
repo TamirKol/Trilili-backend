@@ -3,14 +3,14 @@ import path from 'path'
 import cors from 'cors'
 import express from 'express'
 import cookieParser from 'cookie-parser'
-
+import dotenv from 'dotenv'
+dotenv.config()
 const app = express()
 const server = http.createServer(app)
 
 // Express App Config
 app.use(cookieParser())
 app.use(express.json())
-
 
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve('public')))
@@ -60,13 +60,9 @@ server.listen(port, () => {
 //chat gpt
 
 import { OpenAI } from "openai";
-import { CHAT_GPT_KEY4 } from './services/apiKeys.js'
 import bodyParser from 'body-parser'
-import { log } from 'console'
-
 const openai = new OpenAI({
-    apiKey: CHAT_GPT_KEY4
-    // apiKey: process.env.CHAT_GPT_KEY4
+    apiKey: process.env.CHAT_GPT_KEY 
 });
 
 app.use(bodyParser.json())
