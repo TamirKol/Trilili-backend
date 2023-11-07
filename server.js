@@ -60,7 +60,6 @@ server.listen(port, () => {
 //chat gpt
 
 import { OpenAI } from "openai";
-// import { CHAT_GPT_KEY } from './services/apiKeys.js'
 import bodyParser from 'body-parser'
 
 const openai = new OpenAI({
