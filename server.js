@@ -61,7 +61,6 @@ server.listen(port, () => {
 
 import { OpenAI } from "openai";
 import bodyParser from 'body-parser'
-
 const openai = new OpenAI({
     apiKey: process.env.CHAT_GPT_KEY 
 });
