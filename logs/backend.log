@@ -7678,3 +7678,363 @@
 7.11.2023, 1:04:02 - INFO - New connected socket [id: ofywaivndd8jwgNpAAAB] 
 7.11.2023, 1:04:02 - INFO - New connected socket [id: xrjdDSGdCIxxLzI1AAAD] 
 7.11.2023, 1:04:03 - INFO - New connected socket [id: MTal1F-an_tlFov2AAAF] 
+7.11.2023, 8:18:01 - INFO - Server is running on port: 3030 
+7.11.2023, 8:18:01 - INFO - New connected socket [id: Y9oXQHisVu5q2IT5AAAB] 
+7.11.2023, 8:18:04 - INFO - New connected socket [id: T0sISAJpu53mYkWvAAAD] 
+7.11.2023, 8:18:19 - INFO - New connected socket [id: FPNKonFdoLg4FTvnAAAF] 
+7.11.2023, 8:18:39 - DEBUG - auth.service - login with email: talco4088@gmail.com (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:18:39 - INFO - User login:  | {"_id":"65437e24a4eb0d1c841ee1e7","email":"talco4088@gmail.com","fullname":"Tal Cohen","imgUrl":"http://res.cloudinary.com/dug2dklcy/image/upload/v1698869585/pujdwjccal5j2syietpa.jpg"} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:18:40 - INFO - Setting socket.userId = [object Object] for socket [id: FPNKonFdoLg4FTvnAAAF] 
+7.11.2023, 8:18:40 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:18:40 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:19:06 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:19:06 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:19:48 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 8:19:49 - INFO - New connected socket [id: 7WqtCgli12qufzedAAAH] 
+7.11.2023, 8:19:49 - INFO - Setting socket.userId = 65437e24a4eb0d1c841ee1e7 for socket [id: 7WqtCgli12qufzedAAAH] 
+7.11.2023, 8:20:10 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:20:10 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:20:44 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 8:20:45 - INFO - New connected socket [id: h5BgIgDF0ExzJRk_AAAJ] 
+7.11.2023, 8:20:58 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 8:20:58 - INFO - New connected socket [id: BwlaNCwbVsAXUZfEAAAL] 
+7.11.2023, 8:21:01 - DEBUG - Getting Boards: | {"keywords":""} 
+7.11.2023, 8:21:01 - INFO - Sample Logger Middleware 
+7.11.2023, 8:21:29 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:21:29 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:21:39 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:21:39 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:21:41 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:21:41 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:22:12 - INFO - New connected socket [id: RYp3xUWl3TvyMwWpAAAN] 
+7.11.2023, 8:25:40 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:25:40 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:25:47 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 8:25:48 - INFO - New connected socket [id: LuTKQ5K1A95h_0P9AAAP] 
+7.11.2023, 8:26:03 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:26:03 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:26:25 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:26:25 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:26:26 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:26:26 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:28:02 - INFO - Broadcasting event: board-updated 
+7.11.2023, 8:28:02 - INFO - Emit to all 
+7.11.2023, 8:28:15 - INFO - Broadcasting event: board-updated 
+7.11.2023, 8:28:15 - INFO - Emit to all 
+7.11.2023, 8:28:20 - INFO - Broadcasting event: board-updated 
+7.11.2023, 8:28:20 - INFO - Emit to all 
+7.11.2023, 8:28:45 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:28:45 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:29:00 - INFO - Broadcasting event: board-updated 
+7.11.2023, 8:29:00 - INFO - Emit to all 
+7.11.2023, 8:29:02 - INFO - Broadcasting event: board-updated 
+7.11.2023, 8:29:02 - INFO - Emit to all 
+7.11.2023, 8:29:11 - INFO - Broadcasting event: board-updated 
+7.11.2023, 8:29:11 - INFO - Emit to all 
+7.11.2023, 8:29:16 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:29:16 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:29:20 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:29:20 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:29:28 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:29:28 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:31:48 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:31:48 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:32:11 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:32:11 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:32:13 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:32:13 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:54:49 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 8:54:49 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:36:56 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:36:56 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:36:58 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:36:58 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:45:12 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:45:12 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:45:34 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:45:34 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:10 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:10 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:17 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:17 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:21 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:21 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:29 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:29 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:38 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:38 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:39 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:39 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:43 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:46:43 - INFO - Broadcast to all excluding user: 65437e24a4eb0d1c841ee1e7 (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 9:47:46 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 9:47:47 - INFO - New connected socket [id: 4xjUNupJavJZniAHAAAR] 
+7.11.2023, 9:47:48 - INFO - Setting socket.userId = 65437e24a4eb0d1c841ee1e7 for socket [id: 4xjUNupJavJZniAHAAAR] 
+7.11.2023, 10:03:50 - INFO - Broadcasting event: board-updated 
+7.11.2023, 10:03:50 - INFO - Emit to all 
+7.11.2023, 10:03:51 - INFO - Broadcasting event: board-updated 
+7.11.2023, 10:03:51 - INFO - Emit to all 
+7.11.2023, 10:03:52 - INFO - Broadcasting event: board-updated 
+7.11.2023, 10:03:52 - INFO - Emit to all 
+7.11.2023, 10:03:53 - INFO - Broadcasting event: board-updated 
+7.11.2023, 10:03:53 - INFO - Emit to all 
+7.11.2023, 10:03:54 - INFO - Broadcasting event: board-updated 
+7.11.2023, 10:03:54 - INFO - Emit to all 
+7.11.2023, 10:05:56 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 10:05:57 - INFO - New connected socket [id: sUtb99Tc4WUOAev1AAAT] 
+7.11.2023, 10:08:41 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 10:08:41 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 10:13:04 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 10:13:05 - INFO - New connected socket [id: 9nsMBA0ZK2wtSAGjAAAV] 
+7.11.2023, 10:13:06 - INFO - Setting socket.userId = 65437e24a4eb0d1c841ee1e7 for socket [id: 9nsMBA0ZK2wtSAGjAAAV] 
+7.11.2023, 10:14:40 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 10:14:40 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 10:27:59 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 10:27:59 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 10:27:59 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 10:27:59 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 13:26:42 - INFO - New connected socket [id: k2M2HaATUcnb0YF1AAAX] 
+7.11.2023, 13:26:46 - INFO - New connected socket [id: 9pawaHzWCAHgnlTvAAAZ] 
+7.11.2023, 13:26:46 - INFO - New connected socket [id: I0ot8Y9qjt5uuSBhAAAb] 
+7.11.2023, 13:27:39 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 13:27:42 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 13:27:44 - INFO - New connected socket [id: Uy9OFOlGPJLr644HAAAd] 
+7.11.2023, 13:27:47 - INFO - New connected socket [id: bU_-qLISYiOJnvslAAAf] 
+7.11.2023, 13:35:07 - INFO - New connected socket [id: QpX8guMJINEMhHd3AAAh] 
+7.11.2023, 13:35:08 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 13:35:08 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 13:35:08 - INFO - Setting socket.userId = 65437e24a4eb0d1c841ee1e7 for socket [id: QpX8guMJINEMhHd3AAAh] 
+7.11.2023, 13:35:09 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 13:35:15 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 13:35:18 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 14:06:18 - INFO - New connected socket [id: w7r8g2D5NYzehaLhAAAj] 
+7.11.2023, 14:06:20 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 14:06:20 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:09:56 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:10:07 - INFO - New connected socket [id: CaAjqSd8VMmHsCj9AAAl] 
+7.11.2023, 15:10:55 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:10:55 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:13:31 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:13:31 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:13:35 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:13:35 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:13:42 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:13:42 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:14:43 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:14:43 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:14:46 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:14:46 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:15:52 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:15:52 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:15:58 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:15:58 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:07 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:07 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:08 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:08 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:10 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:10 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:10 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:10 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:11 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:11 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:11 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:11 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:20 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:20 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:49 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:49 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:51 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:16:51 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:17:48 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:17:48 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:17:51 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:17:51 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:41 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:41 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:43 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:43 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:50 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:50 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:54 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:18:54 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:04 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:04 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:06 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:06 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:11 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:11 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:24 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:24 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:42 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:42 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:47 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:19:47 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:27:14 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:27:14 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:28:46 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:28:47 - INFO - New connected socket [id: 2w5Zn8XvkF4VjcWMAAAn] 
+7.11.2023, 15:29:45 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:29:46 - INFO - New connected socket [id: oljMUcVLUOV8rD0bAAAp] 
+7.11.2023, 15:29:49 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:29:49 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:29:58 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:29:58 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:30:11 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:30:11 - INFO - New connected socket [id: eMDagexF6PHcfJB_AAAr] 
+7.11.2023, 15:37:58 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:37:58 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:38:22 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:38:22 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:39:03 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:39:03 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:39:16 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:39:16 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:39:42 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:39:43 - INFO - New connected socket [id: mJM8sFoDhpfA56NpAAAt] 
+7.11.2023, 15:40:03 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:03 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:11 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:11 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:15 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:15 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:19 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:19 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:23 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:23 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:26 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:26 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:29 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:29 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:35 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:35 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:59 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:40:59 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:42:41 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:42:41 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 15:44:52 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:44:53 - INFO - New connected socket [id: Ri4Zu8d0ym1y8jvyAAAv] 
+7.11.2023, 15:49:24 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:49:25 - INFO - New connected socket [id: Djz-YuMAaoH4nFJSAAAx] 
+7.11.2023, 15:55:10 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:55:11 - INFO - New connected socket [id: 7nfXJeD-fXg2IdkSAAAz] 
+7.11.2023, 15:58:39 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 15:58:40 - INFO - New connected socket [id: VQulSRqvQDrLMc5JAAA1] 
+7.11.2023, 16:01:37 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 16:01:38 - INFO - New connected socket [id: kcGjMu6XuTkfyeBTAAA3] 
+7.11.2023, 16:33:18 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 16:33:18 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 16:33:22 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 16:33:22 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 16:34:49 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 16:34:50 - INFO - New connected socket [id: 3ZTATCxYm_b3yPXhAAA5] 
+7.11.2023, 17:14:06 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:14:07 - INFO - New connected socket [id: Z3Rz8v3F9GdaCQEOAAA7] 
+7.11.2023, 17:16:49 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:16:49 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:16:55 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:16:55 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:18:35 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:18:35 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:18:48 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:18:48 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 17:19:31 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:19:32 - INFO - New connected socket [id: BlET5ErnfHsyaOXxAAA9] 
+7.11.2023, 17:21:54 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:21:55 - INFO - New connected socket [id: NUg4ddhwlMzM5aFjAAA_] 
+7.11.2023, 17:22:21 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:22:22 - INFO - New connected socket [id: DtbVfrPeNGmTFAffAABB] 
+7.11.2023, 17:23:30 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:23:31 - INFO - New connected socket [id: GNRc1g73WnwqVUNTAABD] 
+7.11.2023, 17:23:51 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:23:53 - INFO - New connected socket [id: 7bo76NC5mniyY3CIAABF] 
+7.11.2023, 17:24:48 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:24:49 - INFO - New connected socket [id: Fk_-tPvey0zkxlUaAABH] 
+7.11.2023, 17:25:23 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:25:24 - INFO - New connected socket [id: _VZjF_ttA_X9lkU2AABJ] 
+7.11.2023, 17:26:09 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:26:11 - INFO - New connected socket [id: gm7-AqnmJ5UrJrNAAABL] 
+7.11.2023, 17:27:27 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:27:30 - INFO - New connected socket [id: 8zITxWS5AEhG-1EjAABN] 
+7.11.2023, 17:28:44 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:28:46 - INFO - New connected socket [id: RVuiLZQsWHcXSJ0GAABP] 
+7.11.2023, 17:33:27 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:33:29 - INFO - New connected socket [id: wf4f1Tu_MhTghPHbAABR] 
+7.11.2023, 17:36:40 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:36:41 - INFO - New connected socket [id: X7YnsTdO0JVwQYhJAABT] 
+7.11.2023, 17:37:04 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:37:05 - INFO - New connected socket [id: Xwk_jsD4IuADJGG0AABV] 
+7.11.2023, 17:38:19 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:38:20 - INFO - New connected socket [id: 7j_lOEmtL_P2a_ykAABX] 
+7.11.2023, 17:39:22 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:39:23 - INFO - New connected socket [id: wqbD_wF2ZIWORZXAAABZ] 
+7.11.2023, 17:39:44 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:39:45 - INFO - New connected socket [id: gyI2i82iCA7MPqvlAABb] 
+7.11.2023, 17:40:28 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:40:29 - INFO - New connected socket [id: 3jbT26k9MSBbK9WUAABd] 
+7.11.2023, 17:41:19 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:41:20 - INFO - New connected socket [id: 6gN5XKoFVi263CsuAABf] 
+7.11.2023, 17:41:40 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:41:41 - INFO - New connected socket [id: dScwwme3bDOOt0u4AABh] 
+7.11.2023, 17:42:05 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:42:06 - INFO - New connected socket [id: 1FDEzdFDEtz2wIWhAABj] 
+7.11.2023, 17:42:25 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:42:27 - INFO - New connected socket [id: C1Ps3gjRUljLEmTAAABl] 
+7.11.2023, 17:42:49 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:42:50 - INFO - New connected socket [id: uybRaE8WnaMm0X5OAABn] 
+7.11.2023, 17:43:15 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:43:17 - INFO - New connected socket [id: MuAyGUfDnhXPwclTAABp] 
+7.11.2023, 17:44:01 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:44:02 - INFO - New connected socket [id: XJLxHz3niLmFeBL2AABr] 
+7.11.2023, 17:44:39 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:44:41 - INFO - New connected socket [id: UkYzwUU0RpSyaFiUAABt] 
+7.11.2023, 17:45:09 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:45:10 - INFO - New connected socket [id: omZoqkgcaoOAsO11AABv] 
+7.11.2023, 17:59:58 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 17:59:59 - INFO - New connected socket [id: snI6_MBu0VyjUoCpAABx] 
+7.11.2023, 18:00:00 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:00:00 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:02:57 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 18:02:58 - INFO - New connected socket [id: BOLyaauIExJ5e0jBAABz] 
+7.11.2023, 18:02:59 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:02:59 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:08:23 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:08:23 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:08:55 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:08:55 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:09:01 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:09:01 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:09:06 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:09:06 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:20:33 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 18:20:35 - INFO - New connected socket [id: 1Z8Q1mlvA8AEm5uaAAB1] 
+7.11.2023, 18:25:12 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:25:12 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:32:48 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 18:32:50 - INFO - New connected socket [id: pxyZ4u_s5RkuP7S0AAB3] 
+7.11.2023, 18:35:06 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 18:35:07 - INFO - New connected socket [id: 2QyZYq0WUCwn3OXmAAB5] 
+7.11.2023, 18:37:15 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 18:37:17 - INFO - New connected socket [id: QkGnKWLx3C10DSfFAAB7] 
+7.11.2023, 18:41:01 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 18:41:03 - INFO - New connected socket [id: 6PaCgkGC0FX5X5vYAAB9] 
+7.11.2023, 18:44:10 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:44:10 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 18:55:59 - INFO - Server is running on port: 3030 
+7.11.2023, 18:55:59 - INFO - New connected socket [id: Cx2e-U5REkgXLgSGAAAB] 
+7.11.2023, 18:56:01 - INFO - New connected socket [id: 8-NeJjmGA9gN8s88AAAD] 
+7.11.2023, 19:00:43 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 19:00:44 - INFO - New connected socket [id: WAtjRVfTvdXdm16HAAAF] 
+7.11.2023, 19:00:45 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 19:00:45 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 19:02:24 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 19:02:24 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 19:38:14 - INFO - New connected socket [id: P4RmTdm4o7sC7KrmAAAH] 
+7.11.2023, 19:38:21 - INFO - Sample Logger Middleware (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 19:38:21 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
+7.11.2023, 19:39:16 - INFO - New connected socket [id: 3zafViS18ldpDjqQAAAJ] 
+7.11.2023, 19:39:18 - INFO - Socket disconnected [id: undefined] 
+7.11.2023, 19:41:03 - INFO - Server is running on port: 3030 
+7.11.2023, 19:41:03 - INFO - New connected socket [id: I2o4khink8AibdaBAAAC] 
+7.11.2023, 19:41:03 - INFO - New connected socket [id: 6ibJyq7rk_aD6ui-AAAD] 
+7.11.2023, 19:41:05 - INFO - New connected socket [id: YWS9hvEItg1l2YwQAAAF] 
