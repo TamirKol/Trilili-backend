@@ -61,6 +61,7 @@ server.listen(port, () => {
 
 import { OpenAI } from "openai";
 import bodyParser from 'body-parser'
+import { log } from 'console'
 const openai = new OpenAI({
     apiKey: process.env.API_KEY
 });
@@ -68,6 +69,7 @@ const openai = new OpenAI({
 app.use(bodyParser.json())
 
 app.post('/chat', async (req, res) => {
+    console.log("aaaaa");
     const { prompt } = req.body
     const completion = await openai.completions.create({
         model: 'gpt-3.5-turbo-instruct-0914',
