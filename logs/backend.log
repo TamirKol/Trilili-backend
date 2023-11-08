@@ -8125,3 +8125,99 @@
 8.11.2023, 0:19:46 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
 8.11.2023, 0:20:09 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
 8.11.2023, 0:20:09 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+8.11.2023, 12:53:32 - INFO - Server is running on port: 3030 
+8.11.2023, 12:53:38 - INFO - New connected socket [id: izvSvGhti93xO5ZuAAAB] 
+8.11.2023, 12:53:40 - INFO - Sample Logger Middleware 
+8.11.2023, 12:53:40 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 13:02:07 - INFO - Sample Logger Middleware 
+8.11.2023, 13:02:07 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 13:46:41 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 13:46:41 - INFO - Sample Logger Middleware 
+8.11.2023, 13:48:43 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 13:48:45 - INFO - New connected socket [id: 7FZbRUF5HuFy4C0gAAAD] 
+8.11.2023, 13:57:25 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 13:57:27 - INFO - New connected socket [id: WX9plDpXMmLODMYkAAAF] 
+8.11.2023, 14:01:26 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 14:01:28 - INFO - New connected socket [id: 22iHeq334o441bdhAAAH] 
+8.11.2023, 14:07:00 - INFO - Broadcasting event: board-updated 
+8.11.2023, 14:07:00 - INFO - Emit to all 
+8.11.2023, 14:09:53 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 14:09:55 - INFO - New connected socket [id: nlTW_0Wn48yBQtEuAAAJ] 
+8.11.2023, 14:18:28 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 14:18:29 - INFO - New connected socket [id: i1U5n_u7qnw6kDBVAAAL] 
+8.11.2023, 14:34:28 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:17:59 - INFO - New connected socket [id: VYhzA2Tn_qZE-z9XAAAN] 
+8.11.2023, 15:19:18 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:19:20 - INFO - New connected socket [id: 7G5YPurZrFIPeLarAAAP] 
+8.11.2023, 15:50:47 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:50:49 - INFO - New connected socket [id: SAqL7s4QrDnQVznWAAAR] 
+8.11.2023, 16:00:31 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 16:00:35 - INFO - New connected socket [id: pRwsRZFFWVY02VxxAAAT] 
+8.11.2023, 16:00:36 - INFO - Sample Logger Middleware 
+8.11.2023, 16:00:36 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 16:03:15 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:18:03 - INFO - New connected socket [id: 48s1XK48kOjhu4cwAAAV] 
+8.11.2023, 19:18:32 - INFO - Sample Logger Middleware 
+8.11.2023, 19:18:32 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:20:00 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:20:02 - INFO - New connected socket [id: nohm01tZuCdsS14sAAAX] 
+8.11.2023, 19:20:02 - INFO - Sample Logger Middleware 
+8.11.2023, 19:20:02 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:21:14 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:21:17 - INFO - New connected socket [id: fD38aone9b42Pb1NAAAZ] 
+8.11.2023, 19:21:17 - INFO - Sample Logger Middleware 
+8.11.2023, 19:21:17 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:21:22 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:21:22 - INFO - Emit to all 
+8.11.2023, 19:21:25 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:21:25 - INFO - Emit to all 
+8.11.2023, 19:22:00 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:22:04 - INFO - New connected socket [id: sIOqBWYv6hnsN4AcAAAb] 
+8.11.2023, 19:22:07 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:07 - INFO - Emit to all 
+8.11.2023, 19:22:09 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:09 - INFO - Emit to all 
+8.11.2023, 19:22:12 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:12 - INFO - Emit to all 
+8.11.2023, 19:22:14 - INFO - Emit to all 
+8.11.2023, 19:22:14 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:16 - INFO - Emit to all 
+8.11.2023, 19:22:16 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:18 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:18 - INFO - Emit to all 
+8.11.2023, 19:22:21 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:21 - INFO - Emit to all 
+8.11.2023, 19:22:24 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:24 - INFO - Emit to all 
+8.11.2023, 19:22:26 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:26 - INFO - Emit to all 
+8.11.2023, 19:22:29 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:29 - INFO - Emit to all 
+8.11.2023, 19:22:31 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:31 - INFO - Emit to all 
+8.11.2023, 19:22:33 - INFO - Emit to all 
+8.11.2023, 19:22:33 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:35 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:35 - INFO - Emit to all 
+8.11.2023, 19:22:37 - INFO - Broadcasting event: board-updated 
+8.11.2023, 19:22:37 - INFO - Emit to all 
+8.11.2023, 19:22:44 - INFO - Sample Logger Middleware 
+8.11.2023, 19:22:44 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:22:51 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:22:52 - INFO - New connected socket [id: IarOaHtq0VeI44z8AAAd] 
+8.11.2023, 19:22:52 - INFO - Sample Logger Middleware 
+8.11.2023, 19:22:52 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:27:07 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:27:08 - INFO - New connected socket [id: XGvnnYqaZmqXmBPXAAAf] 
+8.11.2023, 19:27:08 - INFO - Sample Logger Middleware 
+8.11.2023, 19:27:08 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:27:59 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:28:00 - INFO - New connected socket [id: U8PtUvy6ZkV_PhNcAAAh] 
+8.11.2023, 19:28:00 - INFO - Sample Logger Middleware 
+8.11.2023, 19:28:00 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 19:34:59 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:34:59 - INFO - New connected socket [id: i4-pnYUoCI4OzFWCAAAj] 
+8.11.2023, 19:38:18 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:38:19 - INFO - New connected socket [id: mu72dWoHapVQ8RFEAAAl] 
+8.11.2023, 19:40:07 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 19:40:08 - INFO - New connected socket [id: S_Nwb0TVph3-O2FbAAAn] 
