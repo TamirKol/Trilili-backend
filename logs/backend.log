@@ -8125,6 +8125,7 @@
 8.11.2023, 0:19:46 - DEBUG - Getting Boards: | {"keywords":""} (userId: 65437e24a4eb0d1c841ee1e7)
 8.11.2023, 0:20:09 - INFO - Broadcasting event: board-updated (userId: 65437e24a4eb0d1c841ee1e7)
 8.11.2023, 0:20:09 - INFO - Emit to all (userId: 65437e24a4eb0d1c841ee1e7)
+<<<<<<< HEAD
 8.11.2023, 12:53:32 - INFO - Server is running on port: 3030 
 8.11.2023, 12:53:38 - INFO - New connected socket [id: izvSvGhti93xO5ZuAAAB] 
 8.11.2023, 12:53:40 - INFO - Sample Logger Middleware 
@@ -8221,3 +8222,25 @@
 8.11.2023, 19:38:19 - INFO - New connected socket [id: mu72dWoHapVQ8RFEAAAl] 
 8.11.2023, 19:40:07 - INFO - Socket disconnected [id: undefined] 
 8.11.2023, 19:40:08 - INFO - New connected socket [id: S_Nwb0TVph3-O2FbAAAn] 
+=======
+8.11.2023, 15:07:18 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:07:32 - INFO - New connected socket [id: xhP1YfvPOUS-wJquAAAD] 
+8.11.2023, 15:07:38 - INFO - Sample Logger Middleware 
+8.11.2023, 15:07:38 - DEBUG - Getting Boards: | {"keywords":""} 
+8.11.2023, 15:21:33 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:21:36 - INFO - New connected socket [id: _gyTel7_uDwyKxBwAAAF] 
+8.11.2023, 15:24:13 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:24:16 - INFO - New connected socket [id: 6jygUwkCLDiw2OE9AAAH] 
+8.11.2023, 15:34:35 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:34:39 - INFO - New connected socket [id: DMT68c3ysjfX6c76AAAJ] 
+8.11.2023, 15:37:42 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:37:44 - INFO - New connected socket [id: h-omXdYaZtt4LHPyAAAL] 
+8.11.2023, 15:39:19 - INFO - Server is running on port: 3030 
+8.11.2023, 15:39:19 - INFO - New connected socket [id: Snpplh5P4nIvzImrAAAB] 
+8.11.2023, 15:47:02 - INFO - Socket disconnected [id: undefined] 
+8.11.2023, 15:47:30 - INFO - New connected socket [id: ftCzm73qjTUXygRyAAAD] 
+8.11.2023, 15:51:54 - INFO - Server is running on port: 3030 
+8.11.2023, 15:51:54 - INFO - New connected socket [id: YuJ6bc9JtbjXyI_FAAAB] 
+8.11.2023, 15:55:01 - INFO - Server is running on port: 3030 
+8.11.2023, 15:55:02 - INFO - New connected socket [id: 0ugY4uFE5HwkwKrZAAAB] 
+>>>>>>> 00aa16fc9d8c36043905e367da3b7a1a41c582ff
